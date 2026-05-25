@@ -5,9 +5,14 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "fastapi>=0.136.1",
+    "aiosqlite>=0.22.1",
+    "fastapi[standard]>=0.136.1",
+    "greenlet>=3.5.1",
     "jinja2>=3.1.6",
+    "pillow>=12.2.0",
+    "pwdlib[argon2]>=0.3.0",
     "pydantic-settings>=2.14.1",
+    "pyjwt>=2.13.0",
     "python-multipart>=0.0.29",
     "sqlalchemy>=2.0.49",
     "uvicorn>=0.47.0",
