@@ -9,7 +9,7 @@ from fastapi import (
     HTTPException,
     Query,
     UploadFile,
-    status,
+    status
 )
 from fastapi.security import OAuth2PasswordRequestForm
 from PIL import UnidentifiedImageError
@@ -23,7 +23,7 @@ import models
 from auth import (
     CurrentUser,
     create_access_token,
-    generate_reset_token,
+    generate_password_reset_token,
     hash_password,
     hash_reset_token,
     verify_password,
@@ -47,6 +47,7 @@ from schemas import (
     UserPrivate,
     UserPublic,
     UserUpdate,
+    PagenatedUsersResponse
 )
 
 router = APIRouter()
@@ -148,7 +149,7 @@ async def forgot_password(
             ),
         )
 
-        token = generate_reset_token()
+        token = generate_password_reset_token()
         token_hash = hash_reset_token(token)
         expires_at = datetime.now(UTC) + timedelta(
             minutes=settings.reset_token_expire_minutes,

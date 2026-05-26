@@ -15,7 +15,19 @@ class Settings(BaseSettings):
     access_token_expire_minutes: int=30
     s3_bucket_name: str | None = None
     s3_region: str = "us-east-1"
+    max_upload_size_bytes: int = 5 * 1024 * 1024
+    posts_per_page:int = 10
+    reset_token_expire_minutes: int = 60
+    mail_server: str = "localhost"
+    mail_port: int = 587
+    mail_username: str = ""
+    mail_password: SecretStr = SecretStr("")
+    mail_from: str = "noreply@example.com"
+    mail_use_tls: bool = True
+    frontend_url: str = "http://localhost:8000"
 
+    database_url: str
+    
     @field_validator("debug", mode="before")
     @classmethod
     def parse_debug(cls, value: object) -> object:
@@ -23,7 +35,7 @@ class Settings(BaseSettings):
             return False
         return value
 
-    model_config = ConfigDict(
+    model_config = SettingsConfigDict(
         env_file=".env",
         env_file_encoding="utf-8",
     )
@@ -32,7 +44,6 @@ class Settings(BaseSettings):
 def get_settings() -> Settings:
     return Settings()
 
-max_upload_size_bytes: int = 5 * 1024 * 1024
 
 # type: ignore[call-arg]
 settings = get_settings()

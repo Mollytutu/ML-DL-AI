@@ -11,19 +11,17 @@ from fastapi.staticfiles import StaticFiles
 from starlette.exceptions import HTTPException as StarletteHTTPException
 from fastapi.exceptions import RequestValidationError
 from config import settings
-from sqlalchemy import select
+from sqlalchemy import select,func
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy.orm import selectinload
 
 import models
 from routers import posts, users
 from database import Base, engine, get_db
+from config import settings 
 
 @asynccontextmanager
 async def lifespan(_app:FastAPI):
-    # startup code,includes creating tables if they don't exist
-    async with engine.begin() as conn:
-        await conn.run_sync(Base.metadata.create_all)
     yield
     # Shutdown code 
     await engine.dispose()   
@@ -44,16 +42,28 @@ app.include_router(posts.router)
 @app.get("/",include_in_schema=False, name="home")
 @app.get("/posts", include_in_schema=False, name="posts")
 async def home(request: Request, db:Annotated[AsyncSession, Depends(get_db)]):
+    count_result = await db.execute(select(func.count()).select_from(models.Post))
+    total = count_result.scalar() or 0
+    
     result = await db.execute(
         select(models.Post)
         .options(selectinload(models.Post.author))
         .order_by(models.Post.date_posted.desc())
+        .limit(settings.posts_per_page)   
     )
     posts = result.scalars().all()
+    
+    has_more = len(posts) < total
+    
     return templates.TemplateResponse(
         request,
         "home.html", 
-        { "posts": posts, "title": "Home" }
+        { 
+	         "posts": posts, 
+	         "title": "Home",
+	         "limit": settings.posts_per_page,
+	         "has_more": has_more,
+	        }
     )
 
 # get post by id, if post exists return post, if not raise 404 error
@@ -85,24 +95,40 @@ async def user_posts_page(
 ):
     result = await db.execute(select(models.User).where(models.User.id == user_id))
     user = result.scalars().first()
-
     if not user:
         raise HTTPException(
             status_code=status.HTTP_404_NOT_FOUND,
             detail="User not found",
         )
+    
+    count_result = await db.execute(
+        select(func.count())
+        .select_from(models.Post)
+        .where(models.Post.user_id == user_id),
+    )
+    total = count_result.scalar() or 0
 
     result = await db.execute(
         select(models.Post)
         .options(selectinload(models.Post.author))
         .where(models.Post.user_id == user_id)
         .order_by(models.Post.date_posted.desc())
+        .limit(settings.posts_per_page)
     )
     posts = result.scalars().all()
+    
+    has_more = len(posts) < total
+    
     return templates.TemplateResponse(
         request,
         "user_posts.html",
-        {"posts": posts, "user": user, "title": f"{user.username}'s Posts"},
+        {
+            "posts": posts, 
+            "user": user, 
+            "title": f"{user.username}'s Posts",
+            "limit": settings.posts_per_page,
+            "has_more": has_more,
+        },
     )
 
 
@@ -133,7 +159,6 @@ async def account_page(request: Request):
         {"title": "Account"},
     )
 
-
 @app.get("/forgot-password", include_in_schema=False)
 async def forgot_password_page(request: Request):
     return templates.TemplateResponse(
@@ -141,6 +166,16 @@ async def forgot_password_page(request: Request):
         "forgot_passowrd.html",
         {"title": "Forgot Password"},
     )
+    
+@app.get("/reset-password", include_in_schema=False)
+async def reset_password_page(request: Request):
+    response = templates.TemplateResponse(
+        request,
+        "reset_password.html",
+        {"title": "Reset Password"},
+    )
+    response.headders["Referrer-Policy"] = "no-referrer"
+    return response
 
 @app.exception_handler(StarletteHTTPException)
 async def general_http_exception_handler(request: Request, exception: StarletteHTTPException):
