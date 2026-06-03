@@ -27,11 +27,11 @@ Source website: `https://collegedunia.com/`
 - `switzerland`: `1` school
 
 ## Final Data Files
-- [`data/clean/programs/programs.csv`](/Users/mollymac/Desktop/ioffer/admission_data/data/clean/programs/programs.csv)
+- `data/clean/programs/programs.csv`
   Main one-row-per-program dataset.
-- [`data/clean/admission_pages/admission_pages.csv`](/Users/mollymac/Desktop/ioffer/admission_data/data/clean/admission_pages/admission_pages.csv)
+- `data/clean/admission_pages/admission_pages.csv`
   School-level admission details from `/admission` pages.
-- [`data/clean/school_pages/school_pages.csv`](/Users/mollymac/Desktop/ioffer/admission_data/data/clean/school_pages/school_pages.csv)
+- `data/clean/school_pages/school_pages.csv`
   School-page layer for school overview, highlights, and curated school summaries.
 
 ## Coverage Summary
