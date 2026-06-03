@@ -1,0 +1,766 @@
+school_id,country,school_name,school_homepage_url,program_count,undergrad_count,master_count,phd_count,certificate_count,other_count,with_tuition_count,with_deadline_count,with_duration_count,with_requirement_count
+US00001,usa,"Southern Illinois University, Edwardsville",https://collegedunia.com/usa/university/556-southern-illinois-university-edwardsville,12,2,10,0,0,0,12,5,12,12
+US00002,usa,University at Albany (SUNY Albany),https://collegedunia.com/usa/university/881-university-at-albany-albany,79,30,45,4,0,0,79,2,79,79
+US00003,usa,Northern State University,https://collegedunia.com/usa/university/882-northern-state-university-aberdeen,41,29,12,0,0,0,41,0,41,41
+US00004,usa,Abilene Christian University (ACU),https://collegedunia.com/usa/university/883-abilene-christian-university-abilene,44,31,13,0,0,0,44,1,44,44
+US00005,usa,Ohio Northern University,https://collegedunia.com/usa/university/884-ohio-northern-university-ada,52,41,11,0,0,0,52,0,52,52
+US00006,usa,University of South Carolina [USCA] - Aiken,https://collegedunia.com/usa/university/886-university-of-south-carolina-aiken,182,63,75,41,0,3,182,6,182,182
+US00007,usa,University of Akron,https://collegedunia.com/usa/university/887-university-of-akron-akron,118,56,61,0,0,1,118,1,118,118
+US00008,usa,Albany Medical College,https://collegedunia.com/usa/college/890-albany-medical-college-albany,6,0,6,0,0,0,0,0,6,6
+US00009,usa,State University of New York Polytechnic Institute (SUNY Poly),https://collegedunia.com/usa/university/892-state-university-of-new-york-polytechnic-institute-albany,33,16,17,0,0,0,33,4,33,33
+US00010,usa,Alfred State College,https://collegedunia.com/usa/college/893-alfred-state-college-alfred,22,14,8,0,0,0,0,0,22,22
+US00011,usa,Albion College,https://collegedunia.com/usa/college/894-albion-college-albion,40,33,7,0,0,0,0,0,40,40
+US00012,usa,University of New Mexico (UNM),https://collegedunia.com/usa/university/895-university-of-new-mexico-albuquerque,172,72,64,35,0,1,172,25,172,172
+US00014,usa,Alfred University,https://collegedunia.com/usa/university/897-alfred-university-alfred,44,34,10,0,0,0,44,0,44,44
+US00015,usa,Alliant International University,https://collegedunia.com/usa/university/899-alliant-international-university-san-diego,4,2,2,0,0,0,4,0,4,4
+US00016,usa,Grand Valley State University,https://collegedunia.com/usa/university/901-grand-valley-state-university-allendale,87,50,37,0,0,0,87,85,87,87
+US00017,usa,Muhlenberg College,https://collegedunia.com/usa/college/903-muhlenberg-college-allentown,35,30,5,0,0,0,0,0,35,35
+US00018,usa,University of Mount Union,https://collegedunia.com/usa/university/904-university-of-mount-union-alliance,65,50,14,0,1,0,65,0,65,65
+US00019,usa,Alma College,https://collegedunia.com/usa/college/905-alma-college-alma,40,36,4,0,0,0,0,1,40,40
+US00020,usa,Iowa State University,https://collegedunia.com/usa/university/906-iowa-state-university-ames,160,91,68,1,0,0,0,10,160,160
+US00021,usa,"University of Massachusetts, Amherst (UMass)",https://collegedunia.com/usa/university/907-university-of-massachusetts-amherst,156,73,81,2,0,0,156,6,156,156
+US00022,usa,Amherst College,https://collegedunia.com/usa/college/910-amherst-college-amherst,24,23,1,0,0,0,0,0,24,24
+US00023,usa,Hampshire College,https://collegedunia.com/usa/college/911-hampshire-college-amherst,49,43,6,0,0,0,49,0,49,49
+US00024,usa,California University of Management and Sciences,https://collegedunia.com/usa/university/913-california-university-of-management-and-sciences-anaheim,5,0,5,0,0,0,5,0,5,5
+US00029,usa,Angelo State University,https://collegedunia.com/usa/university/919-angelo-state-university-san-angelo,60,37,23,0,0,0,60,0,60,60
+US00030,usa,Trine University,https://collegedunia.com/usa/university/920-trine-university-angola,41,29,12,0,0,0,41,38,41,41
+US00031,usa,"University of Michigan, Ann Arbor",https://collegedunia.com/usa/university/921-university-of-michigan-ann-arbor,116,28,68,20,0,0,116,25,116,116
+US00032,usa,Lebanon Valley College,https://collegedunia.com/usa/college/923-lebanon-valley-college-annville,38,32,5,0,1,0,0,0,38,36
+US00033,usa,Lawrence University,https://collegedunia.com/usa/college/924-lawrence-university-appleton,33,31,2,0,0,0,0,0,33,33
+US00034,usa,Humboldt State University,https://collegedunia.com/usa/university/926-humboldt-state-university-arcata,50,38,12,0,0,0,50,0,50,50
+US00036,usa,University of Texas at Arlington,https://collegedunia.com/usa/university/928-university-of-texas-arlington,106,44,58,4,0,0,106,16,105,106
+US00040,usa,Ashland University,https://collegedunia.com/usa/university/933-ashland-university-ashland,62,53,9,0,0,0,62,0,62,62
+US00041,usa,Ohio University,https://collegedunia.com/usa/university/936-ohio-university-athens,209,116,93,0,0,0,209,1,209,209
+US00042,usa,University of Georgia,https://collegedunia.com/usa/university/937-university-of-georgia-athens,203,61,70,71,0,1,203,66,203,203
+US00045,usa,Georgia Institute of Technology (Georgia Tech),https://collegedunia.com/usa/university/942-georgia-institute-of-technology-atlanta,113,33,72,8,0,0,113,14,113,113
+US00046,usa,Emory University,https://collegedunia.com/usa/university/943-emory-university-atlanta,91,36,23,31,0,1,91,2,91,91
+US00047,usa,Georgia State University,https://collegedunia.com/usa/university/944-georgia-state-university-atlanta,85,34,47,0,4,0,85,22,85,85
+US00049,usa,Morehouse College,https://collegedunia.com/usa/college/947-morehouse-college-atlanta,23,17,6,0,0,0,0,0,23,20
+US00051,usa,Auburn University,https://collegedunia.com/usa/university/949-auburn-university-auburn,196,93,93,10,0,0,196,10,196,196
+US00053,usa,Aurora University,https://collegedunia.com/usa/university/951-aurora-university-aurora,36,23,13,0,0,0,36,1,36,29
+US00054,usa,University of Texas at Austin (UT Austin),https://collegedunia.com/usa/university/952-university-of-texas-austin,148,60,88,0,0,0,147,13,148,144
+US00055,usa,Saint Edward's University,https://collegedunia.com/usa/university/953-saint-edwards-university-austin,54,42,12,0,0,0,54,1,54,53
+US00056,usa,Azusa Pacific University,https://collegedunia.com/usa/university/954-azusa-pacific-university-azusa,65,38,27,0,0,0,65,0,65,65
+US00058,usa,"California State University, Bakersfield [CSUB]",https://collegedunia.com/usa/university/956-california-state-university-bakersfield,41,31,10,0,0,0,41,1,41,41
+US00060,usa,Johns Hopkins University,https://collegedunia.com/usa/university/958-johns-hopkins-university-baltimore,83,29,52,1,0,1,83,8,83,83
+US00061,usa,University of Maryland,https://collegedunia.com/usa/university/959-university-of-maryland-baltimore,12,3,9,0,0,0,12,0,12,12
+US00063,usa,Morgan State University (MSU),https://collegedunia.com/usa/university/961-morgan-state-university-baltimore,54,20,23,9,0,2,54,54,54,54
+US00064,usa,University of Maryland Baltimore County,https://collegedunia.com/usa/university/967-university-of-maryland-baltimore-county-baltimore,66,36,27,3,0,0,66,10,66,63
+US00067,usa,Lamar University,https://collegedunia.com/usa/university/972-lamar-university-beaumont,67,34,33,0,0,0,67,67,67,67
+US00069,usa,Bellevue College,https://collegedunia.com/usa/college/975-bellevue-college-bellevue,15,7,8,0,0,0,0,0,15,15
+US00071,usa,Beloit College,https://collegedunia.com/usa/college/977-beloit-college-beloit,37,36,1,0,0,0,0,0,37,37
+US00076,usa,University of California Berkley (UC Berkley),https://collegedunia.com/usa/university/982-university-of-california-berkeley,80,20,49,11,0,0,80,19,80,80
+US00077,usa,Andrews University,https://collegedunia.com/usa/university/988-andrews-university-berrien-springs,60,35,25,0,0,0,60,0,60,60
+US00079,usa,Lehigh University,https://collegedunia.com/usa/university/993-lehigh-university-bethlehem,66,30,35,1,0,0,66,4,66,54
+US00080,usa,Moravian College,https://collegedunia.com/usa/college/994-moravian-college-bethlehem,36,25,11,0,0,0,0,1,36,36
+US00081,usa,Endicott College,https://collegedunia.com/usa/college/996-endicott-college-beverly,32,23,9,0,0,0,0,1,32,31
+US00082,usa,Ferris State University,https://collegedunia.com/usa/university/999-ferris-state-university-big-rapids,78,51,27,0,0,0,78,1,78,78
+US00087,usa,Virginia Tech,https://collegedunia.com/usa/university/1006-virginia-tech-blacksburg,118,60,57,1,0,0,118,10,118,118
+US00088,usa,Indiana University,https://collegedunia.com/usa/university/1008-indiana-university-bloomington,96,21,66,9,0,0,96,6,96,96
+US00089,usa,Illinois Wesleyan University,https://collegedunia.com/usa/college/1010-illinois-wesleyan-university-bloomington,36,33,3,0,0,0,0,0,36,36
+US00090,usa,Bloomsburg University of Pennsylvania,https://collegedunia.com/usa/university/1011-bloomsburg-university-of-pennsylvania-bloomsburg,56,31,24,0,1,0,56,0,56,56
+US00096,usa,Boston University,https://collegedunia.com/usa/university/1019-boston-university-boston,145,48,95,1,0,1,145,132,145,145
+US00097,usa,Northeastern University (NEU),https://collegedunia.com/usa/university/1020-northeastern-university-boston,163,56,91,0,16,0,163,117,163,163
+US00098,usa,Suffolk University,https://collegedunia.com/usa/university/1021-suffolk-university-boston,70,28,41,1,0,0,70,4,70,70
+US00099,usa,University of Massachusetts Boston Campus,https://collegedunia.com/usa/university/1024-university-of-massachusetts-boston,53,24,29,0,0,0,53,5,53,53
+US00107,usa,University of Washington Bothell [UW Bothell],https://collegedunia.com/usa/university/1042-university-of-washington-bothell,5,5,0,0,0,0,3,2,5,3
+US00108,usa,University of Colorado Boulder,https://collegedunia.com/usa/university/1043-university-of-colorado-boulder,103,55,48,0,0,0,103,100,103,103
+US00110,usa,Bowie State University,https://collegedunia.com/usa/university/1046-bowie-state-university-bowie,35,20,15,0,0,0,35,2,35,35
+US00113,usa,University of Bridgeport,https://collegedunia.com/usa/university/1051-university-of-bridgeport-bridgeport,44,21,23,0,0,0,44,9,44,44
+US00114,usa,Bridgewater State University,https://collegedunia.com/usa/university/1052-bridgewater-state-university-bridgewater,98,59,39,0,0,0,98,1,98,98
+US00115,usa,Boston College,https://collegedunia.com/usa/college/1054-boston-college-chestnut-hill,61,29,26,6,0,0,0,0,61,61
+US00116,usa,Roger Williams University,https://collegedunia.com/usa/university/1055-roger-williams-university-bristol,48,35,13,0,0,0,48,0,48,48
+US00117,usa,Fordham University,https://collegedunia.com/usa/university/1057-fordham-university-bronx,67,37,30,0,0,0,67,3,67,67
+US00129,usa,Buffalo State,https://collegedunia.com/usa/college/1074-buffalo-state-buffalo,75,49,26,0,0,0,0,0,75,75
+US00132,usa,University at Buffalo,https://collegedunia.com/usa/university/1078-university-at-buffalo-buffalo,189,49,82,58,0,0,189,69,189,189
+US00140,usa,Massachusetts Institute of Technology (MIT),https://collegedunia.com/usa/university/1087-massachusetts-institute-of-technology-cambridge,102,31,42,27,1,1,102,22,102,102
+US00142,usa,Harvard University Fees 2026: Cost of Living & ROI,https://collegedunia.com/usa/university/1090-harvard-university-cambridge,98,35,53,8,0,2,98,9,98,96
+US00146,usa,"Southern Illinois University, Carbondale (SIU)",https://collegedunia.com/usa/university/1096-southern-illinois-university-carbondale,153,90,63,0,0,0,153,1,153,153
+US00154,usa,"University of North Carolina, Chapel Hill (UNC)",https://collegedunia.com/usa/university/1108-university-of-north-carolina-chapel-hill,116,48,60,6,0,2,115,2,116,115
+US00161,usa,"University of Wisconsin, Whitewater (UW)",https://collegedunia.com/usa/university/1116-university-of-wisconsin-whitewater,77,31,45,1,0,0,77,3,77,77
+US00163,usa,University of Virginia (UVA),https://collegedunia.com/usa/university/1118-university-of-virginia-charlottesville,46,11,33,2,0,0,46,4,46,43
+US00166,usa,Washington College,https://collegedunia.com/usa/college/1125-washington-college-chestertown,20,18,2,0,0,0,0,0,20,20
+US00167,usa,Loyola University,https://collegedunia.com/usa/university/1127-loyola-university-chicago,117,64,53,0,0,0,117,0,116,117
+US00169,usa,University of Chicago,https://collegedunia.com/usa/college/1129-the-university-of-chicago-chicago,49,22,20,7,0,0,48,8,49,47
+US00169,usa,University of Chicago,https://collegedunia.com/usa/university/1129-university-of-chicago-chicago,49,22,20,7,0,0,48,8,49,47
+US00170,usa,Illinois Institute of Technology,https://collegedunia.com/usa/university/1130-illinois-institute-of-technology-chicago,82,19,61,2,0,0,82,53,82,82
+US00171,usa,University of Illinois at Chicago (UIC),https://collegedunia.com/usa/university/1131-university-of-illinois-chicago,120,51,68,1,0,0,120,16,120,120
+US00174,usa,DePaul University,https://collegedunia.com/usa/university/1134-depaul-university-chicago,144,62,81,1,0,0,144,16,144,144
+US00181,usa,University of Cincinnati (UC),https://collegedunia.com/usa/university/1151-university-of-cincinnati-cincinnati,123,56,67,0,0,0,123,10,123,123
+US00189,usa,Clemson University,https://collegedunia.com/usa/university/1166-clemson-university-clemson,82,36,46,0,0,0,82,7,82,82
+US00191,usa,Cleveland State University,https://collegedunia.com/usa/university/1168-cleveland-state-university-cleveland,74,27,47,0,0,0,74,42,74,74
+US00196,usa,University of Maryland,https://collegedunia.com/usa/university/1177-university-of-maryland-college-park,131,51,77,3,0,0,131,6,131,131
+US00197,usa,"Texas A&M University Admissions 2026: Fees, Scholarships & Courses",https://collegedunia.com/usa/university/1178-texas-aandm-university-college-station,5,0,5,0,0,0,5,2,5,5
+US00197,usa,"Texas A&M University, College Station",https://collegedunia.com/usa/university/1178-texas-am-university-college-station,139,56,75,7,1,0,139,10,139,133
+US00201,usa,"University of South Carolina, Columbia",https://collegedunia.com/usa/college/1183-university-of-south-carolina-columbia,150,69,81,0,0,0,149,2,150,150
+US00202,usa,University of Missouri [Mizzou],https://collegedunia.com/usa/university/1184-university-of-missouri-columbia,152,55,92,5,0,0,152,3,152,152
+US00204,usa,Ohio State University (OSU),https://collegedunia.com/usa/university/1187-ohio-state-university-columbus,258,90,86,80,0,2,258,7,258,258
+US00210,usa,University of New Hampshire (UNH),https://collegedunia.com/usa/university/1195-university-of-new-hampshire-durham,59,20,39,0,0,0,59,6,59,59
+US00213,usa,University of Miami,https://collegedunia.com/usa/university/1200-university-of-miami-coral-gables,312,117,116,79,0,0,311,2,312,312
+US00215,usa,Oregon State University,https://collegedunia.com/usa/university/1205-oregon-state-university-corvallis,138,69,68,0,1,0,138,7,138,138
+US00223,usa,"University of California, Davis (UC Davis)",https://collegedunia.com/usa/university/1222-university-of-california-davis,129,58,68,3,0,0,129,4,129,129
+US00225,usa,University of Dayton,https://collegedunia.com/usa/university/1224-university-of-dayton-dayton,90,50,40,0,0,0,90,9,90,90
+US00227,usa,University of Michigan Dearborn,https://collegedunia.com/usa/university/1228-university-of-michigan-dearborn,100,40,60,0,0,0,100,20,100,100
+US00232,usa,University of North Texas,https://collegedunia.com/usa/university/1238-university-of-north-texas-denton,183,85,70,28,0,0,183,17,183,183
+US00245,usa,Duke University,https://collegedunia.com/usa/university/1259-duke-university-durham,81,32,45,3,0,1,81,80,81,81
+US00247,usa,New England Institute of Technology (NEIT),https://collegedunia.com/usa/university/1261-new-england-institute-of-technology-warwick,15,11,4,0,0,0,15,0,15,13
+US00248,usa,Michigan State University,https://collegedunia.com/usa/university/1262-michigan-state-university-east-lansing,176,77,91,8,0,0,176,7,176,176
+US00251,usa,University of Wisconsin,https://collegedunia.com/usa/university/1266-university-of-wisconsin-eau-claire,48,38,10,0,0,0,48,0,48,45
+US00257,usa,Central Washington University (CWU),https://collegedunia.com/usa/university/1277-central-washington-university-ellensburg,83,61,22,0,0,0,83,1,83,83
+US00263,usa,University of Oregon (UO),https://collegedunia.com/usa/university/1286-university-of-oregon-eugene,65,42,23,0,0,0,65,2,65,65
+US00264,usa,Northwestern University (NU),https://collegedunia.com/usa/college/1287-northwestern-university-evanston,107,44,58,5,0,0,107,17,107,107
+US00265,usa,University of Evansville,https://collegedunia.com/usa/university/1289-university-of-evansville-evansville,62,51,11,0,0,0,62,1,62,62
+US00266,usa,University of Southern Indiana,https://collegedunia.com/usa/university/1290-university-of-southern-indiana-evansville,48,36,11,0,1,0,48,0,48,44
+US00267,usa,The College of New Jersey,https://collegedunia.com/usa/university/1291-the-college-of-new-jersey-ewing-township,44,35,9,0,0,0,44,0,44,44
+US00269,usa,George Mason University,https://collegedunia.com/usa/university/1293-george-mason-university-fairfax,122,52,69,1,0,0,122,6,122,122
+US00270,usa,Sacred Heart University,https://collegedunia.com/usa/university/1296-sacred-heart-university-fairfield,47,30,17,0,0,0,47,46,47,47
+US00271,usa,Fairfield University,https://collegedunia.com/usa/university/1297-fairfield-university-fairfield,47,32,15,0,0,0,47,2,47,47
+US00278,usa,Northern Arizona University (NAU),https://collegedunia.com/usa/university/1306-northern-arizona-university-flagstaff,46,15,30,1,0,0,46,7,46,46
+US00279,usa,University of Michigan Flint,https://collegedunia.com/usa/university/1308-university-of-michigan-flint,62,36,22,1,3,0,62,2,62,62
+US00283,usa,Colorado State University,https://collegedunia.com/usa/university/1312-colorado-state-university-fort-collins,179,81,76,22,0,0,179,12,179,179
+US00286,usa,Indiana University - Purdue University Fort Wayne,https://collegedunia.com/usa/university/1316-indiana-university-purdue-university-fort-wayne-fort-wayne,59,37,22,0,0,0,59,0,59,59
+US00288,usa,Indiana Tech,https://collegedunia.com/usa/university/1319-indiana-tech-fort-wayne,33,17,16,0,0,0,33,0,33,31
+US00289,usa,Texas Christian University,https://collegedunia.com/usa/university/1320-texas-christian-university-fort-worth,93,56,34,3,0,0,93,0,93,90
+US00301,usa,"California State University, Fullerton (CSU)",https://collegedunia.com/usa/university/1337-california-state-university-fullerton-fullerton,137,64,73,0,0,0,137,12,137,137
+US00302,usa,University of Florida,https://collegedunia.com/usa/university/1339-university-of-florida-gainesville,155,70,81,3,0,1,155,153,155,154
+US00304,usa,Stockton University,https://collegedunia.com/usa/university/1341-stockton-university-galloway,66,49,17,0,0,0,66,0,66,60
+US00306,usa,Adelphi University,https://collegedunia.com/usa/university/1345-adelphi-university-garden-city,102,45,56,0,1,0,102,61,102,102
+US00311,usa,Rowan University,https://collegedunia.com/usa/university/1351-rowan-university-glassboro,72,42,30,0,0,0,72,72,72,72
+US00314,usa,Colorado School of Mines (CSM),https://collegedunia.com/usa/university/1357-colorado-school-of-mines-golden,50,20,30,0,0,0,50,50,50,50
+US00323,usa,University of Wisconsin,https://collegedunia.com/usa/university/1369-university-of-wisconsin-green-bay,42,26,16,0,0,0,42,0,42,42
+US00332,usa,Quinnipiac University,https://collegedunia.com/usa/university/1385-quinnipiac-university-hamden,54,40,14,0,0,0,54,0,54,54
+US00335,usa,Purdue University - Northwest (PUNW),https://collegedunia.com/usa/university/1388-purdue-university-northwest-hammond,53,30,23,0,0,0,53,53,53,53
+US00337,usa,Dartmouth College,https://collegedunia.com/usa/college/1391-dartmouth-college-hanover,57,39,14,4,0,0,0,0,57,57
+US00348,usa,Hofstra University,https://collegedunia.com/usa/university/1408-hofstra-university-hempstead,148,68,80,0,0,0,148,2,148,148
+US00349,usa,New England College (NEC),https://collegedunia.com/usa/college/1409-new-england-college-henniker,28,17,11,0,0,0,0,0,28,28
+US00353,usa,Stevens Institute of Technology,https://collegedunia.com/usa/university/1419-stevens-institute-of-technology-hoboken,62,19,43,0,0,0,62,16,62,62
+US00359,usa,Rice University,https://collegedunia.com/usa/university/1428-rice-university-houston,60,29,28,3,0,0,60,2,60,60
+US00360,usa,"University of Houston, Houston",https://collegedunia.com/usa/university/1429-university-of-houston-houston,86,37,44,5,0,0,86,83,86,86
+US00372,usa,Purdue University Global,https://collegedunia.com/usa/university/1444-purdue-university-global-indianapolis,6,4,2,0,0,0,6,0,0,6
+US00373,usa,Butler University,https://collegedunia.com/usa/university/1445-butler-university-indianapolis,68,54,14,0,0,0,68,0,68,68
+US00376,usa,University of Iowa (UIowa),https://collegedunia.com/usa/university/1448-university-of-iowa-iowa-city,176,54,56,66,0,0,176,1,176,176
+US00377,usa,"University of California, Irvine",https://collegedunia.com/usa/university/1449-university-of-california-irvine,89,39,49,1,0,0,89,7,89,89
+US00379,usa,University of Dallas,https://collegedunia.com/usa/university/1451-university-of-dallas-irving,53,39,14,0,0,0,53,1,53,53
+US00380,usa,Cornell University,https://collegedunia.com/usa/university/1452-cornell-university-ithaca,149,44,50,55,0,0,148,143,149,146
+US00389,usa,Saint Peter's University,https://collegedunia.com/usa/university/1463-saint-peters-university-jersey-city,54,42,12,0,0,0,54,6,54,54
+US00403,usa,University of Rhode Island (URI),https://collegedunia.com/usa/university/1485-university-of-rhode-island-kingston,97,55,42,0,0,0,97,1,97,97
+US00404,usa,"Texas A&M University, Kingsville (TAMU)",https://collegedunia.com/usa/university/1486-texas-aandm-university-kingsville,66,36,30,0,0,0,66,5,66,66
+US00405,usa,Northwest University,https://collegedunia.com/usa/university/1487-northwest-university-kirkland,24,16,7,0,0,1,24,1,24,24
+US00407,usa,University of Tennessee,https://collegedunia.com/usa/university/1491-university-of-tennessee-knoxville,216,84,75,57,0,0,216,53,216,216
+US00426,usa,St. Andrews University,https://collegedunia.com/usa/college/1520-st-andrews-university-laurinburg,9,7,2,0,0,0,0,0,9,9
+US00427,usa,University of Kansas,https://collegedunia.com/usa/university/1521-university-of-kansas-lawrence,139,73,58,8,0,0,138,90,139,138
+US00435,usa,University of Nebraska,https://collegedunia.com/usa/university/1535-university-of-nebraska-lincoln,119,66,53,0,0,0,119,2,119,119
+US00446,usa,"University of California, Los Angeles (UCLA)",https://collegedunia.com/usa/university/1551-university-of-california-los-angeles,69,18,44,7,0,0,69,43,69,69
+US00447,usa,University of Southern California (USC),https://collegedunia.com/usa/university/1552-university-of-southern-california-los-angeles,176,71,96,6,2,1,176,18,176,176
+US00449,usa,Loyola Marymount University,https://collegedunia.com/usa/university/1554-loyola-marymount-university-los-angeles,42,28,14,0,0,0,42,0,42,42
+US00450,usa,"California State University, Los Angeles",https://collegedunia.com/usa/university/1555-california-state-university-los-angeles,102,33,69,0,0,0,102,0,102,102
+US00457,usa,Bellarmine University,https://collegedunia.com/usa/university/1570-bellarmine-university-louisville,36,29,7,0,0,0,36,0,36,36
+US00460,usa,Texas Tech University,https://collegedunia.com/usa/university/1573-texas-tech-university-lubbock,121,62,59,0,0,0,121,2,121,121
+US00464,usa,"University of Wisconsin, Madison (UW-Madison)",https://collegedunia.com/usa/university/1580-university-of-wisconsin-madison,274,92,110,69,3,0,274,21,274,274
+US00471,usa,Southern New Hampshire University (SNHU),https://collegedunia.com/usa/university/1590-southern-new-hampshire-university-manchester,36,22,13,1,0,0,36,35,36,36
+US00482,usa,Tufts University,https://collegedunia.com/usa/university/1611-tufts-university-medford,81,40,39,1,1,0,81,2,81,80
+US00490,usa,Florida International University,https://collegedunia.com/usa/university/1621-florida-international-university-miami,65,32,33,0,0,0,65,5,65,65
+US00494,usa,Miami University,https://collegedunia.com/usa/university/1631-miami-university-oxford,101,62,38,1,0,0,101,3,101,101
+US00501,usa,University of Minnesota - Twin Cities (UMN),https://collegedunia.com/usa/university/1645-university-of-minnesota-twin-cities-minneapolis,296,93,196,6,0,1,295,159,296,296
+US00517,usa,University of Minnesota,https://collegedunia.com/usa/college/1670-university-of-minnesota-morris,33,27,5,0,0,1,0,0,33,32
+US00519,usa,University of Idaho,https://collegedunia.com/usa/university/1674-university-of-idaho-moscow,123,57,66,0,0,0,121,0,123,123
+US00521,usa,Central Michigan University,https://collegedunia.com/usa/university/1676-central-michigan-university-mount-pleasant,98,63,35,0,0,0,98,5,98,98
+US00522,usa,Cornell College,https://collegedunia.com/usa/college/1677-cornell-college-mount-vernon,30,27,3,0,0,0,0,0,30,30
+US00527,usa,Vanderbilt University (VU),https://collegedunia.com/usa/university/1687-vanderbilt-university-nashville,91,43,47,0,0,1,90,3,91,90
+US00533,usa,Rutgers University - New Jersey,https://collegedunia.com/usa/university/1695-rutgers-university-new-jersey-new-brunswick,241,98,129,10,4,0,240,15,241,237
+US00536,usa,Yale University Fees and Cost for international students in 2026,https://collegedunia.com/usa/university/1699-yale-university-new-haven,83,25,47,11,0,0,83,83,83,81
+US00544,usa,Columbia University,https://collegedunia.com/usa/university/1711-columbia-university-new-york-city,83,17,59,5,0,2,83,8,83,83
+US00545,usa,New York University (NYU),https://collegedunia.com/usa/university/1713-new-york-university-new-york-city,104,29,73,0,0,2,104,29,104,104
+US00548,usa,Pace University,https://collegedunia.com/usa/university/1716-pace-university-new-york-city,81,34,46,0,0,1,81,9,81,81
+US00558,usa,Teachers College at Columbia University,https://collegedunia.com/usa/college/1743-teachers-college-at-columbia-university-new-york-city,5,0,5,0,0,0,0,1,5,5
+US00562,usa,University of Delaware,https://collegedunia.com/usa/university/1749-university-of-delaware-newark,155,71,84,0,0,0,155,9,155,155
+US00563,usa,New Jersey Institute of Technology (NJIT),https://collegedunia.com/usa/university/1750-new-jersey-institute-of-technology-newark,81,27,53,0,1,0,81,18,81,81
+US00564,usa,Salve Regina University,https://collegedunia.com/usa/university/1753-salve-regina-university-newport,38,27,11,0,0,0,38,0,38,38
+US00569,usa,Illinois State University (ISU),https://collegedunia.com/usa/university/1763-illinois-state-university-normal,130,76,54,0,0,0,130,4,130,130
+US00574,usa,Manchester University,https://collegedunia.com/usa/university/1772-manchester-university-north-manchester,34,29,5,0,0,0,34,1,34,34
+US00577,usa,University of Notre Dame (ND),https://collegedunia.com/usa/university/1777-university-of-notre-dame-notre-dame,64,36,28,0,0,0,64,2,64,64
+US00589,usa,Chapman University,https://collegedunia.com/usa/university/1800-chapman-university-orange,48,33,15,0,0,0,48,0,48,48
+US00595,usa,University of Mississippi,https://collegedunia.com/usa/university/1810-university-of-mississippi-university,109,51,58,0,0,0,109,5,109,109
+US00598,usa,California Institute of Technology,https://collegedunia.com/usa/college/1813-california-institute-of-technology-pasadena,56,22,18,16,0,0,56,1,56,56
+US00598,usa,California Institute of Technology,https://collegedunia.com/usa/university/1813-california-institute-of-technology-pasadena,56,22,18,16,0,0,56,1,56,56
+US00601,usa,Bradley University,https://collegedunia.com/usa/university/1820-bradley-university-peoria,31,10,21,0,0,0,31,19,31,31
+US00603,usa,University of Pennsylvania (UPenn),https://collegedunia.com/usa/university/1822-university-of-pennsylvania-philadelphia,98,40,45,10,0,3,98,98,98,98
+US00604,usa,Temple University,https://collegedunia.com/usa/university/1823-temple-university-philadelphia,131,72,59,0,0,0,131,2,131,131
+US00608,usa,Drexel University,https://collegedunia.com/usa/university/1834-drexel-university-philadelphia,45,9,36,0,0,0,44,18,45,44
+US00609,usa,Grand Canyon University,https://collegedunia.com/usa/university/1836-grand-canyon-university-phoenix,22,10,12,0,0,0,22,0,22,22
+US00612,usa,Carnegie Mellon University,https://collegedunia.com/usa/university/1841-carnegie-mellon-university-pittsburgh,110,35,53,22,0,0,107,20,110,110
+US00613,usa,University of Pittsburgh,https://collegedunia.com/usa/university/1842-university-of-pittsburgh-pittsburgh,128,58,60,7,3,0,128,11,128,121
+US00614,usa,Duquesne University,https://collegedunia.com/usa/university/1843-duquesne-university-pittsburgh,97,52,45,0,0,0,97,1,97,97
+US00619,usa,Plymouth State University,https://collegedunia.com/usa/university/1852-plymouth-state-university-plymouth,64,37,27,0,0,0,64,1,64,64
+US00635,usa,Princeton University,https://collegedunia.com/usa/university/1873-princeton-university-princeton,37,17,14,6,0,0,37,22,37,37
+US00636,usa,Brown University Fees and Cost for international students in 2026,https://collegedunia.com/usa/university/1875-brown-university-providence,66,32,30,4,0,0,66,59,66,59
+US00637,usa,Providence College,https://collegedunia.com/usa/university/1876-providence-college-providence,35,22,13,0,0,0,35,1,35,35
+US00642,usa,Washington State University,https://collegedunia.com/usa/university/1882-washington-state-university-pullman,122,66,56,0,0,0,122,2,122,122
+US00646,usa,North Carolina State University (NC State),https://collegedunia.com/usa/university/1889-north-carolina-state-university-raleigh,124,48,76,0,0,0,123,11,124,124
+US00650,usa,University of Redlands,https://collegedunia.com/usa/university/1898-university-of-redlands-redlands,37,28,9,0,0,0,37,0,37,37
+US00654,usa,University of Texas Dallas,https://collegedunia.com/usa/university/1903-university-of-texas-dallas-richardson,75,27,48,0,0,0,75,47,75,75
+US00663,usa,University of California Riverside,https://collegedunia.com/usa/university/1917-university-of-california-riverside,102,47,51,4,0,0,97,6,102,101
+US00666,usa,Rochester Institute of Technology (RIT),https://collegedunia.com/usa/university/1921-rochester-institute-of-technology-rochester,78,30,48,0,0,0,78,1,78,78
+US00667,usa,University of Rochester,https://collegedunia.com/usa/university/1922-university-of-rochester-rochester,102,46,52,4,0,0,102,7,102,102
+US00673,usa,Lewis University,https://collegedunia.com/usa/university/1932-lewis-university-romeoville,72,51,21,0,0,0,72,3,72,72
+US00681,usa,Saint Louis University (SLU),https://collegedunia.com/usa/university/1943-saint-louis-university-saint-louis,89,45,44,0,0,0,89,9,89,89
+US00693,usa,University of Utah,https://collegedunia.com/usa/university/1966-university-of-utah-salt-lake-city,313,132,125,56,0,0,313,8,313,313
+US00701,usa,"University of California, San Diego (UCSD)",https://collegedunia.com/usa/university/1976-university-of-california-san-diego,54,16,33,4,0,1,54,7,54,54
+US00702,usa,San Diego State University (SDSU),https://collegedunia.com/usa/university/1977-san-diego-state-university-san-diego,133,62,71,0,0,0,131,2,133,133
+US00703,usa,University of San Diego,https://collegedunia.com/usa/university/1978-university-of-san-diego-san-diego,59,30,27,2,0,0,59,2,59,57
+US00707,usa,University of San Francisco,https://collegedunia.com/usa/university/1985-university-of-san-francisco-san-francisco,59,33,26,0,0,0,59,1,59,59
+US00708,usa,"University of California, San Francisco",https://collegedunia.com/usa/university/1986-university-of-california-san-francisco,29,0,11,17,0,1,29,1,29,29
+US00709,usa,San Francisco State University (SFSU),https://collegedunia.com/usa/university/1987-san-francisco-state-university-san-francisco,90,50,40,0,0,0,90,3,90,90
+US00710,usa,San Jose State University,https://collegedunia.com/usa/university/1996-san-jose-state-university-san-jose,123,59,64,0,0,0,123,122,123,123
+US00712,usa,Texas State University,https://collegedunia.com/usa/university/2000-texas-state-university-san-marcos,87,38,49,0,0,0,87,85,87,87
+US00715,usa,Santa Clara University (SCU),https://collegedunia.com/usa/university/2005-santa-clara-university-santa-clara,45,26,19,0,0,0,45,45,45,45
+US00727,usa,Seattle University,https://collegedunia.com/usa/university/2024-seattle-university-seattle,57,35,22,0,0,0,57,10,57,57
+US00729,usa,City University of Seattle,https://collegedunia.com/usa/university/2026-city-university-of-seattle-seattle,17,4,13,0,0,0,17,3,17,17
+US00741,usa,Lawrence Technological University (LTU),https://collegedunia.com/usa/university/2049-lawrence-technological-university-southfield,45,24,21,0,0,0,45,10,45,45
+US00754,usa,Washington University (WashU),https://collegedunia.com/usa/university/2066-washington-university-st-louis,96,50,46,0,0,0,96,16,96,96
+US00759,usa,Stanford University,https://collegedunia.com/usa/university/2074-stanford-university-stanford,131,26,35,68,0,2,131,14,131,120
+US00765,usa,Oklahoma State University (OSU),https://collegedunia.com/usa/university/2081-oklahoma-state-university-stillwater,65,23,40,2,0,0,65,4,65,65
+US00767,usa,Stony Brook University,https://collegedunia.com/usa/university/2084-stony-brook-university-stony-brook,67,25,42,0,0,0,67,5,67,67
+US00768,usa,University of Connecticut,https://collegedunia.com/usa/university/2086-university-of-connecticut-storrs,139,54,80,5,0,0,139,2,139,139
+US00771,usa,Syracuse University,https://collegedunia.com/usa/university/2091-syracuse-university-syracuse,129,58,70,1,0,0,129,7,129,129
+US00773,usa,University of Washington,https://collegedunia.com/usa/university/2096-university-of-washington-seattle,87,39,47,1,0,0,87,5,87,87
+US00775,usa,University of Washington [UW Tacoma],https://collegedunia.com/usa/university/2100-university-of-washington-tacoma,13,3,10,0,0,0,13,3,13,13
+US00777,usa,Florida State University,https://collegedunia.com/usa/university/2103-florida-state-university-tallahassee,137,63,74,0,0,0,137,133,137,137
+US00782,usa,Arizona State University Fees for International Students 2026-27,https://collegedunia.com/usa/university/2110-arizona-state-university-tempe,161,36,105,20,0,0,161,30,161,161
+US00783,usa,University of Phoenix,https://collegedunia.com/usa/university/2112-university-of-phoenix-tempe,1,0,1,0,0,0,1,0,1,1
+US00784,usa,University of Advancing Technology,https://collegedunia.com/usa/university/2113-university-of-advancing-technology-tempe,16,8,8,0,0,0,16,0,16,16
+US00790,usa,University of Toledo,https://collegedunia.com/usa/university/2121-university-of-toledo-toledo,101,54,47,0,0,0,101,2,101,101
+US00795,usa,University of Arizona,https://collegedunia.com/usa/university/2127-university-of-arizona-tucson,155,50,91,14,0,0,155,10,155,141
+US00805,usa,Pennsylvania State University (Penn State),https://collegedunia.com/usa/university/2139-pennsylvania-state-university-state-college,233,131,102,0,0,0,233,220,233,226
+US00807,usa,University of Illinois Urbana Champaign (UIUC),https://collegedunia.com/usa/university/2141-university-of-illinois-urbana,241,120,118,3,0,0,241,16,241,241
+US00810,usa,University of South Dakota,https://collegedunia.com/usa/university/2149-university-of-south-dakota-vermillion,57,37,20,0,0,0,57,2,56,57
+US00816,usa,Baylor University,https://collegedunia.com/usa/university/2157-baylor-university-waco,94,65,29,0,0,0,94,2,94,94
+US00817,usa,Brandeis University,https://collegedunia.com/usa/university/2159-brandeis-university-waltham,55,31,24,0,0,0,55,1,55,55
+US00819,usa,University of Central Missouri,https://collegedunia.com/usa/university/2161-university-of-central-missouri-warrensburg,114,65,48,0,1,0,114,30,114,114
+US00820,usa,George Washington University,https://collegedunia.com/usa/university/2162-george-washington-university-washington,120,56,64,0,0,0,120,10,120,120
+US00821,usa,Georgetown University (GU),https://collegedunia.com/usa/university/2163-georgetown-university-washington,45,14,31,0,0,0,45,6,45,45
+US00823,usa,Howard University,https://collegedunia.com/usa/university/2165-howard-university-washington,42,19,23,0,0,0,42,2,42,42
+US00834,usa,Babson College,https://collegedunia.com/usa/college/2181-babson-college-wellesley,34,16,18,0,0,0,0,3,34,34
+US00837,usa,University of New Haven,https://collegedunia.com/usa/university/2186-university-of-new-haven-west-haven,89,48,40,1,0,0,88,88,89,89
+US00838,usa,Purdue University,https://collegedunia.com/usa/university/2187-purdue-university-west-lafayette,205,110,88,7,0,0,204,20,205,205
+US00860,usa,Clark University,https://collegedunia.com/usa/university/2225-clark-university-worcester,45,23,14,8,0,0,45,12,45,45
+US00861,usa,Worcester Polytechnic Institute (WPI),https://collegedunia.com/usa/university/2226-worcester-polytechnic-institute-worcester,43,13,29,1,0,0,43,3,43,43
+US00872,usa,"College of Fine Arts, Carnegie Mellon University",https://collegedunia.com/usa/college/2369-college-of-fine-arts-carnegie-mellon-university-pittsburgh,6,2,3,1,0,0,0,1,6,6
+US00873,usa,Harvard Extension School,https://collegedunia.com/usa/college/2708-harvard-extension-school-cambridge,10,0,10,0,0,0,10,1,10,8
+US00874,usa,Harvard Kennedy School,https://collegedunia.com/usa/college/2709-harvard-kennedy-school-cambridge,3,0,3,0,0,0,3,0,3,3
+US00877,usa,Yale School of Management,https://collegedunia.com/usa/college/2736-yale-school-of-management-new-haven,13,0,10,3,0,0,0,13,13,13
+US00923,usa,Rivier University,https://collegedunia.com/usa/university/2875-rivier-university-nashua,1,0,1,0,0,0,1,1,1,1
+US00929,usa,Cornell Tech,https://collegedunia.com/usa/college/3638-cornell-tech-ithaca,7,0,7,0,0,0,0,2,7,7
+US00932,usa,"Minerva University - [Minerva University], California, San Francisco - Courses & Fees",https://collegedunia.com/usa/university/3711-minerva-university-san-francisco,7,4,2,0,1,0,7,0,7,0
+AE00001,uae,Amity University,https://collegedunia.com/uae/university/3589-amity-university-dubai,36,20,9,3,3,1,36,6,36,34
+AE00002,uae,BITS Pilani Dubai (BITS),https://collegedunia.com/uae/university/3590-bits-pilani-dubai,13,6,7,0,0,0,13,8,13,13
+AE00002,uae,BITS Pilani Dubai (BITS),https://collegedunia.com/uae/university/3590-bits-pilani-dubai-dubai,13,6,7,0,0,0,13,8,13,13
+AE00003,uae,University of Birmingham Dubai,https://collegedunia.com/uae/university/3591-university-of-birmingham-dubai-dubai,23,10,13,0,0,0,23,0,23,23
+AE00004,uae,Khalifa University,https://collegedunia.com/uae/university/3592-khalifa-university-abu-dhabi,25,11,13,1,0,0,25,1,25,25
+AE00005,uae,"Abu Dhabi University - [ADU], Dubai, Dubai - Courses & Fees",https://collegedunia.com/uae/university/3593-abu-dhabi-university-dubai,4,2,2,0,0,0,0,1,4,1
+AE00006,uae,University of Wollongong Dubai,https://collegedunia.com/uae/university/3595-university-of-wollongong-dubai-dubai,15,6,9,0,0,0,15,2,15,15
+AE00007,uae,Middlesex University Dubai,https://collegedunia.com/uae/university/3596-middlesex-university-dubai-dubai,95,24,69,0,2,0,95,0,95,95
+AE00008,uae,University of Sharjah,https://collegedunia.com/uae/university/3597-university-of-sharjah-sharjah,15,5,9,1,0,0,15,2,15,15
+AE00009,uae,Westford University College,https://collegedunia.com/uae/university/3598-westford-university-college-sharjah,12,2,10,0,0,0,12,0,12,12
+AE00010,uae,Zayed University (ZU),https://collegedunia.com/uae/university/3600-zayed-university-dubai,16,6,10,0,0,0,15,1,16,15
+AE00011,uae,Manipal Academy of Higher Education (MAHE),https://collegedunia.com/uae/college/3601-manipal-university-dubai,25,8,11,0,6,0,25,5,25,25
+AE00011,uae,Manipal Academy of Higher Education (MAHE),https://collegedunia.com/uae/university/3601-manipal-academy-of-higher-education-dubai,25,8,11,0,6,0,25,5,25,25
+AE00012,uae,United Arab Emirates University,https://collegedunia.com/uae/university/3602-united-arab-emirates-university-al-ain,15,7,8,0,0,0,15,7,15,15
+AE00013,uae,Gulf Medical University,https://collegedunia.com/uae/university/3604-gulf-medical-university-ajman,17,6,10,1,0,0,17,11,17,17
+AE00014,uae,"De Montfort University, Dubai",https://collegedunia.com/uae/university/3623-de-montfort-university-dubai,11,8,3,0,0,0,11,0,11,10
+AE00015,uae,"University Of Bolton - [UoBM], Al Qusaidat, Ras Al Khaimah - Courses & Fees",https://collegedunia.com/uae/university/3672-university-of-bolton-al-qusaidat,13,4,9,0,0,0,13,0,13,13
+AE00016,uae,"Canadian University Dubai - [CUD Dubai], Dubai, Dubai - Courses & Fees",https://collegedunia.com/uae/university/3695-canadian-university-dubai-dubai,18,11,7,0,0,0,18,1,18,18
+AE00017,uae,"Ajman University - [Ajman University], Ajman, Ajman - Courses & Fees",https://collegedunia.com/uae/university/3700-ajman-university-ajman,17,12,5,0,0,0,0,0,17,17
+AE00018,uae,"American University Of Sharjah - [AU Sharjah], Sharjah, Sharjah - Courses & Fees",https://collegedunia.com/uae/university/3708-american-university-of-sharjah-sharjah,3,2,1,0,0,0,2,1,3,2
+AE00019,uae,"American University In Dubai - [AUD Dubai], Dubai, Dubai - Courses & Fees",https://collegedunia.com/uae/university/3792-american-university-in-dubai-dubai,18,12,6,0,0,0,18,18,18,18
+AE00020,uae,Jumeira University Dubai,https://collegedunia.com/uae/university/3812-jumeira-university-dubai,5,3,2,0,0,0,5,0,5,5
+AU00001,australia,Flinders University,https://collegedunia.com/australia/university/589-flinders-university-adelaide,175,59,92,0,24,0,175,151,175,175
+AU00002,australia,University of Adelaide,https://collegedunia.com/australia/university/590-university-of-adelaide-adelaide,191,81,86,0,24,0,191,0,191,190
+AU00003,australia,University of South Australia (UniSA),https://collegedunia.com/australia/university/591-university-of-south-australia-adelaide,146,59,66,0,21,0,146,0,146,146
+AU00004,australia,University of New England,https://collegedunia.com/australia/university/592-university-of-new-england-armidale,20,13,7,0,0,0,20,6,20,20
+AU00005,australia,Australian Catholic University,https://collegedunia.com/australia/university/593-australian-catholic-university-brisbane,38,22,15,1,0,0,38,11,38,38
+AU00006,australia,Griffith University,https://collegedunia.com/australia/university/594-griffith-university-brisbane,167,68,68,3,23,5,167,136,167,167
+AU00007,australia,Queensland University of Technology,https://collegedunia.com/australia/university/595-queensland-university-of-technology-brisbane,220,104,82,5,28,1,220,156,219,215
+AU00008,australia,The University of Queensland,https://collegedunia.com/australia/college/596-university-of-queensland-brisbane,148,60,81,0,6,1,148,96,147,148
+AU00008,australia,The University of Queensland,https://collegedunia.com/australia/university/596-the-university-of-queensland-brisbane,148,60,81,0,6,1,148,96,147,148
+AU00009,australia,Australian National University (ANU),https://collegedunia.com/australia/university/597-australian-national-university-canberra,154,34,92,27,0,1,154,154,154,152
+AU00010,australia,University of Canberra,https://collegedunia.com/australia/university/598-university-of-canberra-canberra,148,70,53,3,21,1,148,7,148,145
+AU00011,australia,Charles Darwin University,https://collegedunia.com/australia/university/599-charles-darwin-university-darwin,56,16,26,1,13,0,56,44,56,56
+AU00012,australia,Deakin University,https://collegedunia.com/australia/university/600-deakin-university-geelong,166,66,90,4,5,1,166,2,166,166
+AU00013,australia,Bond University (Bond Uni),https://collegedunia.com/australia/university/601-bond-university-gold-coast,110,42,50,1,15,2,110,0,110,108
+AU00014,australia,University of Tasmania,https://collegedunia.com/australia/university/602-university-of-tasmania-hobart,138,37,53,29,19,0,138,8,138,137
+AU00015,australia,University of New South Wales (UNSW),https://collegedunia.com/australia/university/603-university-of-new-south-wales-sydney,255,91,121,43,0,0,255,22,255,255
+AU00016,australia,La Trobe University,https://collegedunia.com/australia/university/605-la-trobe-university-melbourne,127,47,66,1,12,1,127,13,127,126
+AU00017,australia,Monash University,https://collegedunia.com/australia/university/606-monash-university-melbourne,182,77,89,11,4,1,182,0,182,182
+AU00018,australia,RMIT University,https://collegedunia.com/australia/university/607-rmit-university-melbourne,150,47,69,34,0,0,150,64,150,150
+AU00019,australia,Swinburne University of Technology,https://collegedunia.com/australia/university/608-swinburne-university-of-technology-melbourne,119,68,37,9,5,0,119,99,119,118
+AU00020,australia,University of Melbourne,https://collegedunia.com/australia/college/609-the-university-of-melbourne-melbourne,175,20,134,8,12,1,174,42,175,175
+AU00020,australia,University of Melbourne,https://collegedunia.com/australia/university/609-university-of-melbourne-melbourne,175,20,134,8,12,1,174,42,175,175
+AU00021,australia,Victoria University,https://collegedunia.com/australia/university/610-victoria-university-melbourne,99,31,38,16,14,0,99,1,99,96
+AU00022,australia,University of Newcastle (UON),https://collegedunia.com/australia/university/611-university-of-newcastle-newcastle,92,50,39,0,3,0,92,15,92,92
+AU00023,australia,Curtin University,https://collegedunia.com/australia/university/612-curtin-university-perth,148,67,80,0,1,0,147,55,148,147
+AU00024,australia,Edith Cowan University (ECU),https://collegedunia.com/australia/university/613-edith-cowan-university-perth,97,43,45,1,8,0,97,9,97,97
+AU00025,australia,Murdoch University,https://collegedunia.com/australia/university/614-murdoch-university-perth,81,23,35,0,23,0,81,3,81,80
+AU00026,australia,University of Western Australia,https://collegedunia.com/australia/university/615-university-of-western-australia-perth,76,9,50,2,13,2,76,48,76,76
+AU00027,australia,Central Queensland University,https://collegedunia.com/australia/university/616-central-queensland-university-rockhampton,56,23,20,4,9,0,56,17,56,56
+AU00028,australia,Charles Sturt University (CSU),https://collegedunia.com/australia/university/618-charles-sturt-university-sydney,41,11,12,14,4,0,41,24,41,41
+AU00029,australia,Macquarie University,https://collegedunia.com/australia/university/619-macquarie-university-sydney,262,127,121,2,10,2,262,23,262,262
+AU00030,australia,The University of Sydney,https://collegedunia.com/australia/university/620-the-university-of-sydney-sydney,252,76,162,8,4,2,251,35,252,252
+AU00031,australia,University of Technology Sydney,https://collegedunia.com/australia/university/621-university-of-technology-sydney-sydney,227,87,80,18,40,2,226,169,227,227
+AU00032,australia,University of Southern Queensland (USQ),https://collegedunia.com/australia/university/623-university-of-southern-queensland-toowoomba,116,44,48,1,23,0,116,92,116,116
+AU00033,australia,"James Cook University, Townsville (JCU)",https://collegedunia.com/australia/university/624-james-cook-university-townsville,156,38,94,13,11,0,156,145,156,156
+AU00034,australia,University of Wollongong (UOW),https://collegedunia.com/australia/university/625-university-of-wollongong-wollongong,121,63,51,2,5,0,121,46,121,121
+AU00035,australia,Blue Mountains International Hotel Management School,https://collegedunia.com/australia/college/2372-blue-mountains-international-hotel-management-school-sydney,2,0,2,0,0,0,2,1,2,2
+AU00036,australia,Engineering Institute of Technology (EIT),https://collegedunia.com/australia/college/2380-engineering-institute-of-technology-perth,8,2,5,0,1,0,8,0,8,8
+AU00037,australia,S P Jain School of Global Management,https://collegedunia.com/australia/college/2384-s-p-jain-school-of-global-management-sydney,6,4,2,0,0,0,6,0,6,6
+AU00038,australia,The University of Notre Dame,https://collegedunia.com/australia/university/2386-the-university-of-notre-dame-fremantle,110,40,63,1,5,1,110,1,110,110
+AU00039,australia,Torrens University Australia,https://collegedunia.com/australia/university/2388-torrens-university-australia-sydney,119,30,41,3,43,2,119,13,119,117
+AU00040,australia,Macleay College,https://collegedunia.com/australia/college/2914-macleay-college-sydney,27,13,3,0,11,0,27,0,27,27
+AU00041,australia,Sydney Institute of Business and Technology,https://collegedunia.com/australia/college/2917-sydney-institute-of-business-and-technology-sydney,4,0,0,0,4,0,4,0,4,4
+AU00042,australia,UOW College,https://collegedunia.com/australia/college/2918-uow-college-wollongong,4,0,0,0,4,0,4,0,4,4
+AU00043,australia,Monash College,https://collegedunia.com/australia/college/2935-monash-college-melbourne,5,0,0,0,5,0,5,0,5,5
+AU00044,australia,"Adelaide University: Eligibility, Courses & Fees 2026",https://collegedunia.com/australia/university/3803-adelaide-university-adelaide,10,4,6,0,0,0,10,10,10,10
+CA00001,canada,"Algoma University Programs, Fees and Deadlines",https://collegedunia.com/canada/university/1-algoma-university-sault-ste-marie,27,11,3,0,13,0,26,7,27,27
+CA00002,canada,"Carleton University Courses, Deadlines, Scores and Fees",https://collegedunia.com/canada/university/2-carleton-university-ottawa,79,30,43,5,1,0,79,10,79,79
+CA00003,canada,Concordia University,https://collegedunia.com/canada/university/3-concordia-university-montreal,83,23,43,6,11,0,82,21,83,83
+CA00004,canada,OCAD University,https://collegedunia.com/canada/university/5-ocad-university-toronto,17,12,5,0,0,0,17,0,17,17
+CA00005,canada,Saint Mary's University,https://collegedunia.com/canada/university/6-saint-marys-university-halifax,61,23,25,5,8,0,61,41,61,61
+CA00006,canada,The King's University,https://collegedunia.com/canada/university/7-the-kings-university-edmonton,34,24,9,0,1,0,34,0,34,34
+CA00007,canada,University Canada West,https://collegedunia.com/canada/university/8-university-canada-west-vancouver,5,3,2,0,0,0,5,1,5,5
+CA00008,canada,University of Alberta,https://collegedunia.com/canada/university/9-university-of-alberta-edmonton,99,40,51,6,0,2,99,23,99,98
+CA00009,canada,University of Calgary,https://collegedunia.com/canada/university/10-university-of-calgary-calgary,111,39,51,6,13,2,111,34,111,111
+CA00010,canada,University of Waterloo,https://collegedunia.com/canada/university/11-university-of-waterloo-waterloo,68,21,41,4,2,0,68,12,68,68
+CA00011,canada,University of Windsor,https://collegedunia.com/canada/university/12-university-of-windsor-windsor,74,27,35,6,5,1,72,19,74,74
+CA00012,canada,Acadia University,https://collegedunia.com/canada/university/13-acadia-university-wolfville,57,35,19,1,2,0,57,1,57,57
+CA00013,canada,Athabasca University,https://collegedunia.com/canada/university/14-athabasca-university-athabasca,12,2,6,0,4,0,12,0,12,12
+CA00014,canada,Bishop's University,https://collegedunia.com/canada/university/15-bishops-university-sherbrooke,59,33,15,0,11,0,59,1,59,59
+CA00015,canada,Brescia University College,https://collegedunia.com/canada/college/17-brescia-university-college-london,16,12,4,0,0,0,16,0,16,16
+CA00016,canada,Cape Breton University,https://collegedunia.com/canada/university/20-cape-breton-university-sydney,37,19,11,0,7,0,37,32,37,37
+CA00017,canada,Capilano University,https://collegedunia.com/canada/university/21-capilano-university-north-vancouver,21,7,1,0,13,0,21,2,21,21
+CA00018,canada,Dalhousie University,https://collegedunia.com/canada/university/22-dalhousie-university-halifax,109,34,55,9,9,2,109,20,109,109
+CA00019,canada,Polytechnic School of Montreal,https://collegedunia.com/canada/college/23-polytechnic-school-of-montreal-montreal,26,11,11,2,2,0,26,0,26,26
+CA00020,canada,Emily Carr University of Art & Design,https://collegedunia.com/canada/university/24-emily-carr-university-of-art--design-vancouver,16,5,8,0,3,0,16,0,16,16
+CA00021,canada,HEC Montreal,https://collegedunia.com/canada/college/28-hec-montreal-montreal,30,1,17,1,11,0,30,18,30,30
+CA00022,canada,King's University College,https://collegedunia.com/canada/college/30-kings-university-college-london,18,17,1,0,0,0,18,0,18,17
+CA00023,canada,Kwantlen Polytechnic University (KPU),https://collegedunia.com/canada/university/31-kwantlen-polytechnic-university-surrey,67,36,6,0,25,0,67,0,67,67
+CA00024,canada,Lakehead University,https://collegedunia.com/canada/university/33-lakehead-university-thunder-bay,133,88,30,6,7,2,133,15,133,133
+CA00025,canada,Laurentian University,https://collegedunia.com/canada/university/34-laurentian-university-sudbury,92,63,22,7,0,0,92,2,92,92
+CA00026,canada,MacEwan University,https://collegedunia.com/canada/university/37-macewan-university-edmonton,36,19,2,0,15,0,36,1,36,36
+CA00027,canada,McGill University,https://collegedunia.com/canada/university/39-mcgill-university-montreal,108,26,68,3,11,0,108,17,105,108
+CA00028,canada,McMaster University,https://collegedunia.com/canada/university/40-mcmaster-university-hamilton,103,41,54,5,3,0,103,8,103,102
+CA00029,canada,Memorial University of Newfoundland,https://collegedunia.com/canada/university/41-memorial-university-of-newfoundland-st-johns,78,21,46,4,7,0,78,8,78,78
+CA00030,canada,Mount Royal University (MRU),https://collegedunia.com/canada/university/43-mount-royal-university-calgary,44,28,7,0,9,0,44,0,44,43
+CA00031,canada,Mount Saint Vincent University,https://collegedunia.com/canada/university/44-mount-saint-vincent-university-halifax,34,19,10,1,4,0,34,0,34,34
+CA00032,canada,NSCAD University,https://collegedunia.com/canada/university/46-nscad-university-halifax,14,9,5,0,0,0,14,0,14,12
+CA00033,canada,Queen's University,https://collegedunia.com/canada/university/47-queens-university-kingston,103,34,54,8,5,2,103,32,102,102
+CA00034,canada,Renison University College,https://collegedunia.com/canada/college/49-renison-university-college-waterloo,19,16,3,0,0,0,19,0,19,19
+CA00035,canada,Royal Roads University,https://collegedunia.com/canada/university/51-royal-roads-university-victoria,18,3,10,0,5,0,18,3,18,18
+CA00036,canada,Toronto Metropolitan University,https://collegedunia.com/canada/university/52-toronto-metropolitan-university-toronto,71,28,29,5,9,0,71,8,71,71
+CA00037,canada,Simon Fraser University,https://collegedunia.com/canada/university/54-simon-fraser-university-burnaby,82,24,31,12,14,1,82,10,82,82
+CA00038,canada,St. Mary's University,https://collegedunia.com/canada/university/59-st-marys-university-halifax,9,9,0,0,0,0,9,0,9,9
+CA00039,canada,University of British Columbia (Okanagan),https://collegedunia.com/canada/college/63-the-university-of-british-columbia-okanagan-kelowna,30,9,21,0,0,0,30,1,30,30
+CA00040,canada,The University of British Columbia (UBC),https://collegedunia.com/canada/college/64-university-of-british-columbia-vancouver,155,43,108,2,1,1,155,10,155,155
+CA00040,canada,The University of British Columbia (UBC),https://collegedunia.com/canada/university/64-the-university-of-british-columbia-vancouver,155,43,108,2,1,1,155,10,155,155
+CA00041,canada,University of Winnipeg,https://collegedunia.com/canada/university/65-university-of-winnipeg-winnipeg,61,43,12,0,6,0,60,2,61,61
+CA00042,canada,Thompson Rivers University,https://collegedunia.com/canada/university/66-thompson-rivers-university-kamloops,51,12,17,0,21,1,51,8,51,51
+CA00043,canada,"Trent University, Peterborough",https://collegedunia.com/canada/university/67-trent-university-peterborough,96,58,28,5,5,0,96,7,96,96
+CA00044,canada,Trinity College,https://collegedunia.com/canada/college/68-trinity-college-toronto,4,2,0,0,1,1,4,0,4,3
+CA00045,canada,Trinity Western University,https://collegedunia.com/canada/university/69-trinity-western-university-langley,40,31,9,0,0,0,40,0,40,40
+CA00046,canada,University of Moncton,https://collegedunia.com/canada/university/70-university-of-moncton-moncton,91,43,37,5,6,0,91,3,91,69
+CA00047,canada,University of Montreal,https://collegedunia.com/canada/university/71-university-of-montreal-montreal,110,27,52,12,18,1,110,23,110,100
+CA00048,canada,University of Sherbrooke,https://collegedunia.com/canada/university/73-university-of-sherbrooke-sherbrooke,141,32,44,32,33,0,141,0,141,139
+CA00049,canada,"School of Higher Technology, University of Quebec",https://collegedunia.com/canada/university/74-school-of-higher-technology-university-of-quebec-montreal,24,5,17,1,1,0,24,1,24,23
+CA00050,canada,University of Quebec at Montreal (UQAM),https://collegedunia.com/canada/university/76-university-of-quebec-at-montreal-montreal,119,14,24,29,52,0,119,1,119,119
+CA00051,canada,Laval University,https://collegedunia.com/canada/university/82-laval-university-quebec-city,296,61,114,71,50,0,296,103,296,296
+CA00052,canada,University of Guelph,https://collegedunia.com/canada/university/85-university-of-guelph-guelph,85,29,41,8,7,0,84,6,85,84
+CA00053,canada,"University of Guelph, Humber Campus",https://collegedunia.com/canada/college/87-university-of-guelph-humber-campus-toronto,1,0,0,0,1,0,1,0,1,1
+CA00054,canada,University of Lethbridge,https://collegedunia.com/canada/university/89-university-of-lethbridge-lethbridge,188,86,86,10,5,1,188,37,188,188
+CA00055,canada,University of Manitoba,https://collegedunia.com/canada/university/90-university-of-manitoba-winnipeg,93,31,50,12,0,0,93,12,93,93
+CA00056,canada,University of New Brunswick (Fredericton) (UNB),https://collegedunia.com/canada/university/91-university-of-new-brunswick-fredericton-fredericton,43,19,19,2,3,0,43,4,43,43
+CA00057,canada,University of Northern British Columbia (UNBC),https://collegedunia.com/canada/university/93-university-of-northern-british-columbia-prince-george,66,36,27,2,1,0,66,1,66,66
+CA00058,canada,University of Ontario Institute of Technology,https://collegedunia.com/canada/university/94-university-of-ontario-institute-of-technology-oshawa,89,43,37,9,0,0,89,4,89,89
+CA00059,canada,University of Ottawa,https://collegedunia.com/canada/university/95-university-of-ottawa-ottawa,82,28,44,9,0,1,81,34,82,82
+CA00060,canada,University of Regina,https://collegedunia.com/canada/university/97-university-of-regina-regina,82,27,38,7,10,0,82,13,82,82
+CA00061,canada,University of Saskatchewan,https://collegedunia.com/canada/university/98-university-of-saskatchewan-saskatoon,106,37,47,14,8,0,106,7,106,106
+CA00062,canada,University of the Fraser Valley,https://collegedunia.com/canada/university/101-university-of-the-fraser-valley-abbotsford,63,24,7,0,32,0,63,1,63,63
+CA00063,canada,University of Toronto (Mississauga),https://collegedunia.com/canada/college/102-university-of-toronto-mississauga-mississauga,12,10,2,0,0,0,12,0,12,12
+CA00064,canada,University of Toronto (Scarborough),https://collegedunia.com/canada/college/103-university-of-toronto-scarborough-scarborough,3,1,2,0,0,0,3,0,3,3
+CA00065,canada,Courses at University of Toronto,https://collegedunia.com/canada/university/104-university-of-toronto-toronto,154,43,95,5,10,1,153,8,153,154
+CA00066,canada,University of Victoria,https://collegedunia.com/canada/university/105-university-of-victoria-victoria,93,22,49,22,0,0,93,12,93,93
+CA00067,canada,Vancouver Island University (VIU),https://collegedunia.com/canada/university/106-vancouver-island-university-nanaimo,32,13,9,0,10,0,32,1,32,32
+CA00068,canada,Western University,https://collegedunia.com/canada/college/107-western-university-london,93,29,46,12,5,1,93,10,93,93
+CA00069,canada,Wilfrid Laurier University Fee and Courses for international student 2026,https://collegedunia.com/canada/university/108-wilfrid-laurier-university-waterloo,76,43,21,11,1,0,76,3,76,76
+CA00070,canada,York University,https://collegedunia.com/canada/university/109-york-university-toronto,100,38,42,4,15,1,100,62,100,100
+CA00071,canada,Algonquin College,https://collegedunia.com/canada/college/110-algonquin-college-ottawa,83,3,8,0,72,0,83,3,83,82
+CA00072,canada,"Centennial College: Courses & Fees, Intakes, Scholarships & Acceptance Rate 2026",https://collegedunia.com/canada/college/113-centennial-college-toronto,78,1,3,0,74,0,78,0,78,78
+CA00073,canada,Humber College,https://collegedunia.com/canada/college/114-humber-college-toronto,51,15,8,0,28,0,51,14,51,51
+CA00074,canada,Northern Alberta Institute of Technology (NAIT),https://collegedunia.com/canada/college/115-northern-alberta-institute-of-technology-edmonton,60,4,4,0,52,0,60,0,60,60
+CA00075,canada,British Columbia Institute of Technology (BCIT),https://collegedunia.com/canada/college/123-british-columbia-institute-of-technology-burnaby,61,12,7,0,42,0,61,4,61,61
+CA00076,canada,College of the Rockies,https://collegedunia.com/canada/college/182-college-of-the-rockies-cranbrook,17,5,0,0,12,0,17,0,17,17
+CA00077,canada,Columbia College,https://collegedunia.com/canada/college/184-columbia-college-vancouver,6,5,1,0,0,0,6,0,6,6
+CA00078,canada,Coquitlam College,https://collegedunia.com/canada/college/187-coquitlam-college-coquitlam,7,1,0,0,6,0,7,1,7,7
+CA00079,canada,Dawson College,https://collegedunia.com/canada/college/190-dawson-college-montreal,14,0,0,0,14,0,14,0,14,14
+CA00080,canada,Fanshawe College,https://collegedunia.com/canada/college/193-fanshawe-college-london,87,4,0,0,83,0,87,15,83,87
+CA00081,canada,George Brown College,https://collegedunia.com/canada/college/196-george-brown-college-toronto,52,4,1,0,47,0,52,18,52,52
+CA00082,canada,Georgian College,https://collegedunia.com/canada/college/197-georgian-college-barrie,60,4,2,0,54,0,60,2,60,60
+CA00083,canada,Vancouver Community College,https://collegedunia.com/canada/college/206-vancouver-community-college-vancouver,16,1,1,0,14,0,16,0,16,16
+CA00084,canada,Yukon College,https://collegedunia.com/canada/college/209-yukon-college-whitehorse,15,4,0,0,11,0,15,1,15,15
+CA00085,canada,Adler University (Vancouver),https://collegedunia.com/canada/university/218-adler-university-vancouver-vancouver,3,0,2,1,0,0,3,1,3,3
+CA00086,canada,Brock University,https://collegedunia.com/canada/university/227-brock-university-st-catharines,58,29,23,5,1,0,58,5,58,57
+CA00087,canada,Red River College,https://collegedunia.com/canada/college/274-red-river-college-winnipeg,27,0,1,0,26,0,27,0,27,27
+CA00088,canada,Yorkville University,https://collegedunia.com/canada/university/330-yorkville-university-fredericton,9,6,3,0,0,0,9,0,9,9
+CA00089,canada,LaSalle College - Vancouver,https://collegedunia.com/canada/college/373-lasalle-college---vancouver-vancouver,19,5,0,0,14,0,19,0,19,19
+CA00090,canada,Desautels Faculty of Management,https://collegedunia.com/canada/college/395-desautels-faculty-of-management-montreal,8,1,7,0,0,0,8,1,8,8
+CA00091,canada,Rotman School of Management,https://collegedunia.com/canada/college/407-rotman-school-of-management-toronto,4,0,4,0,0,0,4,0,4,4
+CA00092,canada,Ted Rogers School of Management,https://collegedunia.com/canada/college/412-ted-rogers-school-of-management-toronto,10,4,5,0,1,0,10,0,10,10
+CA00093,canada,Telfer School of Management,https://collegedunia.com/canada/college/413-telfer-school-of-management-ottawa,5,1,4,0,0,0,4,1,5,5
+CA00094,canada,Ontario Institute for Studies in Education,https://collegedunia.com/canada/college/439-ontario-institute-for-studies-in-education-toronto,24,0,12,7,0,5,24,0,24,24
+CA00095,canada,Langara College,https://collegedunia.com/canada/college/566-langara-college-vancouver,32,6,3,0,23,0,32,15,32,32
+CA00096,canada,NorQuest College,https://collegedunia.com/canada/college/570-norquest-college-edmonton,5,0,0,0,5,0,5,0,5,5
+CA00097,canada,Northern Lights College,https://collegedunia.com/canada/college/574-northern-lights-college-dawson-creek,17,6,0,0,11,0,17,0,15,17
+CA00098,canada,SAIT Polytechnic,https://collegedunia.com/canada/college/585-sait-polytechnic-calgary,41,3,2,0,36,0,41,0,41,41
+CA00099,canada,Crandall University,https://collegedunia.com/canada/university/2780-crandall-university-moncton,16,12,3,0,1,0,16,3,16,16
+CA00100,canada,Acsenda School of Management,https://collegedunia.com/canada/college/3001-acsenda-school-of-management-vancouver,7,2,5,0,0,0,7,0,7,7
+CA00101,canada,Evergreen College,https://collegedunia.com/canada/college/3004-evergreen-college-toronto,9,0,0,0,9,0,9,0,3,9
+CA00102,canada,Niagara College Canada Welland,https://collegedunia.com/canada/college/3006-niagara-college-canada-welland-toronto,50,2,0,0,48,0,50,2,50,50
+CA00103,canada,Northern College at Pures,https://collegedunia.com/canada/college/3008-northern-college-at-pures-toronto,5,0,0,0,5,0,5,0,5,5
+CA00104,canada,Brighton College,https://collegedunia.com/canada/college/3021-brighton-college-burnaby,15,0,0,0,15,0,15,0,3,15
+CA00105,canada,Cypress College,https://collegedunia.com/canada/college/3222-cypress-college-medicine-hat,5,0,0,0,5,0,5,0,5,5
+CA00106,canada,Toronto School of Management (TSM),https://collegedunia.com/canada/university/3578-toronto-school-of-management-toronto,11,0,0,0,10,1,11,0,6,11
+CA00107,canada,"Trebas Institute - [Trebas], Montreal, Quebec - Courses & Fees",https://collegedunia.com/canada/college/3586-trebas-institute-montreal,10,0,0,0,10,0,10,0,10,10
+CA00108,canada,Fairleigh Dickinson University-Vancouver [FDU],https://collegedunia.com/canada/university/3621-fairleigh-dickinson-university-vancouver,14,2,12,0,0,0,14,1,14,14
+CA00109,canada,New York Institute of Technology - Vancouver Campus,https://collegedunia.com/canada/university/3649-new-york-institute-of-technology---vancouver-campus-vancouver,5,0,5,0,0,0,5,3,5,5
+CA00110,canada,IBT College Business Travel and Tourism Technology,https://collegedunia.com/canada/college/3658-ibt-college-business-travel-and-tourism-technology-toronto,11,0,0,0,11,0,3,0,11,11
+CA00111,canada,Eton College,https://collegedunia.com/canada/college/3659-eton-college-vancouver,11,0,0,0,11,0,11,0,11,11
+CA00112,canada,"TAV College - [TAV Montreal], Montreal, Quebec - Courses & Fees",https://collegedunia.com/canada/college/3660-tav-college-montreal,11,0,0,0,11,0,11,0,11,11
+CH00001,switzerland,"ETH Zurich - [ETHZ], Zurich, Zurich - Courses & Fees",https://collegedunia.com/switzerland/university/3655-eth-zurich-zurich,75,16,55,2,2,0,75,12,74,69
+DE00001,germany,RWTH Aachen University,https://collegedunia.com/germany/university/627-rwth-aachen-university-aachen,155,47,107,1,0,0,64,92,155,155
+DE00002,germany,University of Augsburg,https://collegedunia.com/germany/university/628-university-of-augsburg-augsburg,60,18,40,1,1,0,58,4,60,58
+DE00003,germany,University of Bayreuth,https://collegedunia.com/germany/university/629-university-of-bayreuth-bayreuth,76,23,53,0,0,0,31,6,76,76
+DE00004,germany,Free University of Berlin,https://collegedunia.com/germany/university/631-free-university-of-berlin-berlin,84,29,54,1,0,0,34,45,84,83
+DE00005,germany,Humboldt University of Berlin,https://collegedunia.com/germany/university/632-humboldt-university-of-berlin-berlin,29,7,19,3,0,0,9,6,29,26
+DE00006,germany,Technical University Berlin,https://collegedunia.com/germany/university/633-technical-university-berlin-berlin,123,25,98,0,0,0,35,1,122,117
+DE00007,germany,Bielefeld University,https://collegedunia.com/germany/university/634-bielefeld-university-bielefeld,4,1,3,0,0,0,4,0,4,2
+DE00008,germany,Ruhr University Bochum,https://collegedunia.com/germany/university/635-ruhr-university-bochum-bochum,90,25,64,0,1,0,81,4,90,89
+DE00009,germany,Carl Benz School,https://collegedunia.com/germany/college/636-carl-benz-school-karlsruhe,1,1,0,0,0,0,1,0,1,1
+DE00010,germany,University of Bonn,https://collegedunia.com/germany/university/638-university-of-bonn-bonn,28,2,26,0,0,0,2,5,28,28
+DE00011,germany,Technical University of Braunschweig,https://collegedunia.com/germany/university/639-technical-university-of-braunschweig-braunschweig,38,14,24,0,0,0,11,1,38,38
+DE00012,germany,Constructor University,https://collegedunia.com/germany/university/640-constructor-university-bremen,22,13,8,1,0,0,21,1,22,21
+DE00013,germany,University of Bremen,https://collegedunia.com/germany/university/641-university-of-bremen-bremen,101,30,71,0,0,0,2,2,101,101
+DE00014,germany,RWTH International Academy,https://collegedunia.com/germany/college/642-rwth-international-academy-aachen,7,0,7,0,0,0,7,0,7,7
+DE00015,germany,Chemnitz University of Technology,https://collegedunia.com/germany/university/643-chemnitz-university-of-technology-chemnitz,43,15,28,0,0,0,18,26,43,10
+DE00016,germany,University of Cologne,https://collegedunia.com/germany/university/645-university-of-cologne-cologne,23,4,19,0,0,0,21,20,23,22
+DE00017,germany,Technical University Darmstadt (TU Darmstadt),https://collegedunia.com/germany/university/646-technical-university-darmstadt-darmstadt,92,32,60,0,0,0,38,0,92,65
+DE00018,germany,Technical University Dortmund (TU Dortmund),https://collegedunia.com/germany/university/647-technical-university-dortmund-dortmund,44,14,30,0,0,0,40,3,44,5
+DE00019,germany,Technical University Dresden (TU Dresden),https://collegedunia.com/germany/university/648-technical-university-dresden-dresden,89,21,54,0,14,0,89,7,89,89
+DE00020,germany,University of Duisburg-Essen,https://collegedunia.com/germany/university/649-university-of-duisburg-essen-duisburg,57,28,29,0,0,0,2,55,57,56
+DE00021,germany,University of Duesseldorf,https://collegedunia.com/germany/university/651-university-of-duesseldorf-dusseldorf,37,16,21,0,0,0,35,1,37,4
+DE00022,germany,University of Erlangen-Nuremberg,https://collegedunia.com/germany/university/653-university-of-erlangen-nuremberg-erlangen,28,2,26,0,0,0,25,2,28,24
+DE00023,germany,Goethe University Frankfurt,https://collegedunia.com/germany/university/654-goethe-university-frankfurt-frankfurt-am-main,80,10,70,0,0,0,34,3,80,79
+DE00024,germany,Technical University Freiberg,https://collegedunia.com/germany/university/657-technical-university-freiberg-freiburg,48,14,22,0,12,0,48,6,48,12
+DE00025,germany,University of Freiburg,https://collegedunia.com/germany/university/658-university-of-freiburg-freiburg,106,14,91,1,0,0,105,7,106,106
+DE00026,germany,University of Goettingen,https://collegedunia.com/germany/university/662-university-of-goettingen-gottingen,44,1,19,24,0,0,29,8,44,44
+DE00027,germany,University of Greifswald,https://collegedunia.com/germany/college/664-university-of-greifswald-greifswald,46,19,26,0,1,0,46,1,46,6
+DE00028,germany,Martin Luther University Halle-Wittenberg,https://collegedunia.com/germany/university/665-martin-luther-university-halle-wittenberg-halle,53,17,36,0,0,0,53,2,53,8
+DE00029,germany,Hamburg University of Technology (TUHH),https://collegedunia.com/germany/university/667-hamburg-university-of-technology-hamburg,11,1,10,0,0,0,10,1,11,10
+DE00030,germany,University of Hamburg,https://collegedunia.com/germany/university/668-university-of-hamburg-hamburg,70,17,52,0,1,0,22,48,70,66
+DE00031,germany,Leibniz University of Hannover,https://collegedunia.com/germany/university/670-leibniz-university-of-hannover-hannover,94,37,57,0,0,0,94,8,94,94
+DE00032,germany,"Heidelberg University, HU Heidelberg",https://collegedunia.com/germany/university/672-heidelberg-university-heidelberg,95,32,63,0,0,0,95,3,94,95
+DE00033,germany,Friedrich Schiller University Jena,https://collegedunia.com/germany/university/674-friedrich-schiller-university-jena-jena,52,1,51,0,0,0,1,51,52,14
+DE00034,germany,University of Kaiserslautern,https://collegedunia.com/germany/university/676-university-of-kaiserslautern-kaiserslautern,13,1,10,2,0,0,10,3,13,6
+DE00035,germany,Karlsruhe Institute of Technology,https://collegedunia.com/germany/university/677-karlsruhe-institute-of-technology-karlsruhe,92,20,71,1,0,0,91,9,92,92
+DE00036,germany,University of Kassel,https://collegedunia.com/germany/university/678-university-of-kassel-kassel,34,22,11,0,1,0,1,1,34,32
+DE00037,germany,University of Kiel,https://collegedunia.com/germany/university/680-university-of-kiel-kiel,35,7,28,0,0,0,33,2,35,35
+DE00038,germany,University of Konstanz,https://collegedunia.com/germany/university/681-university-of-konstanz-konstanz,59,25,34,0,0,0,59,2,59,59
+DE00039,germany,Leipzig University,https://collegedunia.com/germany/university/682-leipzig-university-leipzig,21,2,19,0,0,0,20,2,21,20
+DE00040,germany,Otto von Guericke University,https://collegedunia.com/germany/university/684-otto-von-guericke-university-magdeburg,41,14,27,0,0,0,22,4,40,41
+DE00041,germany,Johannes Gutenberg University of Mainz,https://collegedunia.com/germany/university/685-johannes-gutenberg-university-of-mainz-mainz,83,47,35,0,1,0,51,1,83,82
+DE00042,germany,University of Mannheim,https://collegedunia.com/germany/university/687-university-of-mannheim-mannheim,27,9,18,0,0,0,27,3,27,9
+DE00043,germany,Philipps University Marburg,https://collegedunia.com/germany/university/688-philipps-university-marburg-marburg,26,13,13,0,0,0,26,1,26,5
+DE00044,germany,Ludwig Maximilian University of Munich,https://collegedunia.com/germany/university/690-ludwig-maximilian-university-of-munich-munich,76,39,35,1,1,0,73,7,76,73
+DE00045,germany,Technical University Munich (TUM),https://collegedunia.com/germany/university/691-technical-university-munich-munich,102,10,91,1,0,0,100,30,102,101
+DE00046,germany,University of Muenster,https://collegedunia.com/germany/university/694-university-of-muenster-munster,108,41,67,0,0,0,50,2,108,108
+DE00047,germany,Carl von Ossietzky University of Oldenburg,https://collegedunia.com/germany/university/696-carl-von-ossietzky-university-of-oldenburg-oldenburg,28,13,15,0,0,0,28,0,28,10
+DE00048,germany,Paderborn University,https://collegedunia.com/germany/university/698-paderborn-university-paderborn,58,23,35,0,0,0,26,2,58,58
+DE00049,germany,University of Passau,https://collegedunia.com/germany/university/699-university-of-passau-passau,8,2,6,0,0,0,5,3,8,8
+DE00050,germany,University of Potsdam,https://collegedunia.com/germany/university/700-university-of-potsdam-potsdam,13,5,7,1,0,0,13,0,13,13
+DE00051,germany,University of Regensburg,https://collegedunia.com/germany/university/701-university-of-regensburg-regensburg,52,26,26,0,0,0,52,1,52,22
+DE00052,germany,University of Rostock,https://collegedunia.com/germany/university/702-university-of-rostock-rostock,24,11,13,0,0,0,22,3,24,3
+DE00053,germany,Saarland University,https://collegedunia.com/germany/university/703-saarland-university-saarbrucken,39,16,23,0,0,0,34,4,39,7
+DE00054,germany,University of Siegen,https://collegedunia.com/germany/university/705-university-of-siegen-siegen,17,1,16,0,0,0,17,7,17,8
+DE00055,germany,University of Hohenheim,https://collegedunia.com/germany/university/706-university-of-hohenheim-stuttgart,31,9,22,0,0,0,31,0,31,31
+DE00056,germany,University of Stuttgart,https://collegedunia.com/germany/university/707-university-of-stuttgart-stuttgart,109,37,72,0,0,0,109,4,109,99
+DE00057,germany,University of Tuebingen,https://collegedunia.com/germany/university/709-university-of-tuebingen-tubingen,26,0,26,0,0,0,26,0,26,12
+DE00058,germany,Ulm University,https://collegedunia.com/germany/university/710-ulm-university-ulm,48,12,35,1,0,0,48,3,48,48
+DE00059,germany,WHU - Otto Beisheim School of Management,https://collegedunia.com/germany/college/712-whu---otto-beisheim-school-of-management-vallendar,6,1,5,0,0,0,6,1,6,6
+DE00060,germany,Witten/Herdecke University,https://collegedunia.com/germany/university/713-wittenherdecke-university-witten,8,2,6,0,0,0,8,1,8,8
+DE00061,germany,University of Wuerzburg,https://collegedunia.com/germany/university/715-university-of-wuerzburg-wurzburg,77,25,52,0,0,0,77,0,77,77
+DE00062,germany,University of Trier,https://collegedunia.com/germany/university/2237-university-of-trier-trier,63,22,41,0,0,0,60,2,63,63
+DE00063,germany,University of Wuppertal,https://collegedunia.com/germany/university/2238-university-of-wuppertal-wuppertal,53,20,33,0,0,0,49,2,53,53
+DE00064,germany,Osnabruck University Fees & Courses 2026,https://collegedunia.com/germany/university/2239-osnabruck-university-osnabruck,131,45,83,3,0,0,131,131,131,130
+DE00065,germany,Leuphana University of Luneburg,https://collegedunia.com/germany/university/2240-leuphana-university-of-luneburg-luneburg,10,6,4,0,0,0,10,0,10,10
+DE00066,germany,University of Koblenz - Landau,https://collegedunia.com/germany/university/2241-university-of-koblenz---landau-mainz,11,4,7,0,0,0,10,2,11,11
+DE00067,germany,Technical University Ilmenau,https://collegedunia.com/germany/university/2243-technical-university-ilmenau-ilmenau,44,14,28,0,2,0,44,23,44,44
+DE00068,germany,Bauhaus University,https://collegedunia.com/germany/university/2246-bauhaus-university-weimar,17,3,14,0,0,0,17,3,17,17
+DE00069,germany,Berlin University of the Arts,https://collegedunia.com/germany/university/2247-berlin-university-of-the-arts-berlin,23,10,13,0,0,0,1,0,23,23
+DE00070,germany,Frankfurt School of Finance & Management,https://collegedunia.com/germany/college/2328-frankfurt-school-of-finance--management-frankfurt-am-main,7,2,5,0,0,0,7,1,7,7
+DE00071,germany,International School of Management,https://collegedunia.com/germany/college/2330-international-school-of-management-dortmund,13,1,11,1,0,0,13,1,13,13
+DE00072,germany,ESMT Berlin,https://collegedunia.com/germany/college/2332-esmt-berlin-berlin,2,0,2,0,0,0,2,0,2,2
+DE00073,germany,FH Aachen - University of Applied Sciences,https://collegedunia.com/germany/university/2395-fh-aachen---university-of-applied-sciences-aachen,29,14,15,0,0,0,27,2,29,14
+DE00074,germany,Aalen University,https://collegedunia.com/germany/university/2397-aalen-university-aalen,16,7,9,0,0,0,15,1,16,16
+DE00075,germany,IU International University of Applied Sciences,https://collegedunia.com/germany/university/2400-iu-international-university-of-applied-sciences-berlin,22,5,17,0,0,0,22,0,22,22
+DE00076,germany,Beuth University of Applied Sciences,https://collegedunia.com/germany/university/2406-beuth-university-of-applied-sciences-berlin,38,18,20,0,0,0,38,1,38,38
+DE00077,germany,CODE University of Applied Sciences,https://collegedunia.com/germany/university/2410-code-university-of-applied-sciences-berlin,3,2,1,0,0,0,3,0,3,0
+DE00078,germany,HTW Berlin-University of Applied Sciences,https://collegedunia.com/germany/university/2416-htw-berlin-university-of-applied-sciences-berlin,16,8,8,0,0,0,2,2,16,16
+DE00079,germany,Macromedia University of Applied Sciences,https://collegedunia.com/germany/university/2419-macromedia-university-of-applied-sciences-munich,23,5,18,0,0,0,23,0,23,23
+DE00080,germany,SRH Hochschule Berlin,https://collegedunia.com/germany/university/2425-srh-hochschule-berlin-berlin,7,1,6,0,0,0,7,1,7,7
+DE00081,germany,Anhalt University of Applied Sciences,https://collegedunia.com/germany/university/2431-anhalt-university-of-applied-sciences-bernburg,27,12,15,0,0,0,27,0,27,27
+DE00082,germany,Biberach University of Applied Science,https://collegedunia.com/germany/university/2432-biberach-university-of-applied-science-biberach-an-der-riss,15,6,9,0,0,0,14,0,15,0
+DE00083,germany,Coburg University of Applied Sciences and Arts,https://collegedunia.com/germany/university/2438-coburg-university-of-applied-sciences-and-arts-coburg,8,5,3,0,0,0,8,0,8,8
+DE00084,germany,Darmstadt University of Applied Sciences,https://collegedunia.com/germany/university/2439-darmstadt-university-of-applied-sciences-darmstadt,14,0,14,0,0,0,1,2,14,13
+DE00085,germany,Esslingen University of Applied Sciences,https://collegedunia.com/germany/university/2449-esslingen-university-of-applied-sciences-esslingen-am-neckar,17,8,9,0,0,0,17,0,17,17
+DE00086,germany,Fulda University of Applied Sciences,https://collegedunia.com/germany/university/2457-fulda-university-of-applied-sciences-fulda,27,12,15,0,0,0,26,0,27,27
+DE00087,germany,Furtwangen University,https://collegedunia.com/germany/university/2458-furtwangen-university-furtwangen-im-schwarzwald,27,10,17,0,0,0,27,0,27,27
+DE00088,germany,HafenCity University Hamburg,https://collegedunia.com/germany/university/2464-hafencity-university-hamburg-hamburg,4,2,2,0,0,0,4,0,4,0
+DE00089,germany,Hamburg University of Applied Sciences,https://collegedunia.com/germany/university/2466-hamburg-university-of-applied-sciences-hamburg,32,10,22,0,0,0,32,0,32,32
+DE00090,germany,Kuehne Logistics University,https://collegedunia.com/germany/university/2467-kuehne-logistics-university-hamburg,4,1,2,1,0,0,3,0,4,4
+DE00091,germany,Karlsruhe University of Applied Sciences,https://collegedunia.com/germany/university/2483-karlsruhe-university-of-applied-sciences-karlsruhe,19,8,11,0,0,0,19,0,19,19
+DE00092,germany,Kempten University of Applied Sciences,https://collegedunia.com/germany/university/2484-kempten-university-of-applied-sciences-kempten-im-allgau,28,12,16,0,0,0,27,1,28,28
+DE00093,germany,Muenster University of Applied Sciences,https://collegedunia.com/germany/university/2506-muenster-university-of-applied-sciences-munster,29,11,18,0,0,0,29,0,29,29
+DE00094,germany,Nurtingen-Geislingen University,https://collegedunia.com/germany/university/2509-nurtingen-geislingen-university-nurtingen,18,7,11,0,0,0,18,0,18,2
+DE00095,germany,Hochschule Pforzheim,https://collegedunia.com/germany/university/2512-hochschule-pforzheim-pforzheim,39,12,27,0,0,0,39,0,39,39
+DE00096,germany,Regensburg University of Applied Sciences,https://collegedunia.com/germany/university/2515-regensburg-university-of-applied-sciences-regensburg,21,8,13,0,0,0,21,0,21,21
+DE00097,germany,Rosenheim Technical University of Applied Sciences,https://collegedunia.com/germany/university/2517-rosenheim-technical-university-of-applied-sciences-rosenheim,10,4,6,0,0,0,10,0,10,10
+DE00098,germany,Saarland University of Applied Sciences,https://collegedunia.com/germany/university/2518-saarland-university-of-applied-sciences-saarbrucken,25,11,14,0,0,0,25,0,25,25
+DE00099,germany,EBS University,https://collegedunia.com/germany/university/2525-ebs-university-oestrich-winkel,8,2,5,1,0,0,8,2,8,7
+DE00100,germany,"City University Of Applied Sciences - [HSB Bremen], Bremen, Bremen - Courses & Fees",https://collegedunia.com/germany/university/3419-city-university-of-applied-sciences-bremen,45,15,30,0,0,0,45,0,45,45
+FR00001,france,HEC Paris,https://collegedunia.com/france/college/3606-hec-paris-valence,10,0,7,3,0,0,10,8,10,10
+FR00002,france,Sorbonne University,https://collegedunia.com/france/university/3607-sorbonne-university-paris,5,0,5,0,0,0,2,0,5,2
+FR00003,france,EDHEC Business School,https://collegedunia.com/france/college/3608-edhec-business-school-lille,6,2,4,0,0,0,6,2,6,6
+FR00004,france,Neoma Business School,https://collegedunia.com/france/college/3609-neoma-business-school-paris,20,2,18,0,0,0,20,3,20,19
+FR00005,france,EMLYON Business School,https://collegedunia.com/france/college/3610-emlyon-business-school-lyon,10,1,9,0,0,0,10,0,10,10
+FR00006,france,Sciences Po,https://collegedunia.com/france/university/3611-sciences-po-valence,11,0,10,1,0,0,11,1,11,11
+FR00007,france,KEDGE Business School,https://collegedunia.com/france/college/3612-kedge-business-school-talence,4,1,3,0,0,0,4,0,4,4
+FR00008,france,Ecole Polytechnique,https://collegedunia.com/france/college/3613-ecole-polytechnique-valence,7,1,5,1,0,0,7,2,7,7
+FR00009,france,Paris School of Business,https://collegedunia.com/france/college/3615-paris-school-of-business-paris,5,1,3,1,0,0,5,0,5,4
+FR00010,france,Rennes School of Business,https://collegedunia.com/france/college/3616-rennes-school-of-business-valence,7,0,6,1,0,0,7,0,7,7
+FR00011,france,Audencia Business School,https://collegedunia.com/france/college/3617-audencia-business-school-valence,4,1,3,0,0,0,4,1,4,4
+FR00012,france,IESEG School of Management,https://collegedunia.com/france/college/3618-ieseg-school-of-management-lille,4,1,3,0,0,0,4,2,4,4
+FR00013,france,INSEAD Business School,https://collegedunia.com/france/college/3619-insead-business-school-evry,5,0,4,1,0,0,5,2,5,4
+FR00014,france,Montpellier Business School,https://collegedunia.com/france/college/3620-montpellier-business-school-montpellier,2,0,2,0,0,0,2,0,2,2
+FR00015,france,IDRAC Business School,https://collegedunia.com/france/university/3625-idrac-business-school-paris,5,0,5,0,0,0,5,1,5,5
+HK00001,hong-kong,The Hong Kong University of Science & Technology (HKUST),https://collegedunia.com/hong-kong/college/716-the-hong-kong-university-of-science--technology-hong-kong,60,29,31,0,0,0,60,0,59,60
+HK00001,hong-kong,The Hong Kong University of Science & Technology (HKUST),https://collegedunia.com/hong-kong/university/716-the-hong-kong-university-of-science--technology-hong-kong,60,29,31,0,0,0,60,0,59,60
+HK00002,hong-kong,The Hong Kong Polytechnic University,https://collegedunia.com/hong-kong/college/717-the-hong-kong-polytechnic-university-hung-hom,98,29,69,0,0,0,98,2,98,98
+HK00003,hong-kong,City University of Hong Kong,https://collegedunia.com/hong-kong/college/718-city-university-of-hong-kong-kowloon-tong,49,25,24,0,0,0,49,0,49,49
+HK00003,hong-kong,City University of Hong Kong,https://collegedunia.com/hong-kong/university/718-city-university-of-hong-kong-kowloon-tong,49,25,24,0,0,0,49,0,49,49
+HK00004,hong-kong,Hong Kong Baptist University,https://collegedunia.com/hong-kong/college/719-hong-kong-baptist-university-kowloon-tong,5,2,3,0,0,0,3,2,5,3
+HK00004,hong-kong,Hong Kong Baptist University,https://collegedunia.com/hong-kong/university/719-hong-kong-baptist-university-kowloon-tong,5,2,3,0,0,0,3,2,5,3
+HK00005,hong-kong,The University of Hong Kong,https://collegedunia.com/hong-kong/college/720-the-university-of-hong-kong-pokfulam,104,32,72,0,0,0,104,3,104,104
+HK00005,hong-kong,The University of Hong Kong,https://collegedunia.com/hong-kong/university/720-the-university-of-hong-kong-pokfulam,104,32,72,0,0,0,104,3,104,104
+HK00006,hong-kong,Chinese University of Hong Kong (CUHK),https://collegedunia.com/hong-kong/college/721-chinese-university-of-hong-kong-shatin,142,20,99,23,0,0,142,29,142,142
+HK00006,hong-kong,Chinese University of Hong Kong (CUHK),https://collegedunia.com/hong-kong/university/721-chinese-university-of-hong-kong-shatin,142,20,99,23,0,0,142,29,142,142
+HK00007,hong-kong,Lingnan University,https://collegedunia.com/hong-kong/university/723-lingnan-university-tuen-mun,12,5,7,0,0,0,12,0,12,0
+IE00001,ireland,University College Dublin (UCD),https://collegedunia.com/ireland/university/724-university-college-dublin-belfield,203,64,134,4,1,0,202,14,203,203
+IE00002,ireland,University College Cork,https://collegedunia.com/ireland/university/725-university-college-cork-cork,134,71,61,0,2,0,134,5,134,132
+IE00003,ireland,Dublin City University (DCU),https://collegedunia.com/ireland/university/726-dublin-city-university-dublin,77,37,40,0,0,0,77,2,77,77
+IE00004,ireland,Trinity College Dublin (TCD),https://collegedunia.com/ireland/college/729-trinity-college-dublin-dublin,145,67,69,3,6,0,145,11,145,137
+IE00005,ireland,"National University of Ireland, Galway",https://collegedunia.com/ireland/college/730-national-university-of-ireland-galway,143,41,100,2,0,0,143,0,143,143
+IE00005,ireland,"National University of Ireland, Galway",https://collegedunia.com/ireland/university/730-national-university-of-ireland-galway-galway,143,41,100,2,0,0,143,0,143,143
+IE00006,ireland,University of Limerick,https://collegedunia.com/ireland/university/731-university-of-limerick-limerick,101,37,59,2,3,0,101,48,101,101
+IE00007,ireland,Maynooth University,https://collegedunia.com/ireland/university/732-maynooth-university-maynooth,93,34,48,11,0,0,93,5,93,93
+IE00008,ireland,Technological University Dublin,https://collegedunia.com/ireland/university/2779-technological-university-dublin-dublin,55,33,20,0,1,1,55,0,55,55
+IE00009,ireland,Dundalk Institute of Technology,https://collegedunia.com/ireland/university/2905-dundalk-institute-of-technology-dundalk,4,3,1,0,0,0,4,1,4,4
+IE00010,ireland,Waterford Institute of Technology (WIT),https://collegedunia.com/ireland/university/2937-waterford-institute-of-technology-waterford,22,9,12,0,0,1,22,2,22,22
+IE00011,ireland,Griffith College Dublin,https://collegedunia.com/ireland/college/3432-griffith-college-dublin-dublin,19,8,11,0,0,0,19,6,19,19
+IE00012,ireland,National College of Ireland,https://collegedunia.com/ireland/college/3463-national-college-of-ireland-dublin,11,3,8,0,0,0,11,4,11,11
+IE00013,ireland,"South East Technological University (SETU), Waterford",https://collegedunia.com/ireland/university/3730-south-east-technological-university-waterford,2,0,2,0,0,0,2,2,2,2
+IE00014,ireland,"South East Technological University, Wexford [SETU]",https://collegedunia.com/ireland/university/3743-south-east-technological-university-wexford,1,0,1,0,0,0,1,0,1,1
+IE00015,ireland,"University Of Galway - [Galway Uni], Galway, Galway - Courses & Fees",https://collegedunia.com/ireland/university/3808-university-of-galway-galway,2,0,2,0,0,0,2,0,2,2
+IE00016,ireland,"Munster Technological University - [MTU - Cork Campus], Bishoptown, Cork - Courses & Fees",https://collegedunia.com/ireland/university/3809-munster-technological-university---cork-campus-bishoptown,2,0,2,0,0,0,2,2,2,2
+IE00017,ireland,"Technological University Of The Shannon - [TUS Midlands], Athlone, Westmeath - Courses & Fees",https://collegedunia.com/ireland/university/3810-technological-university-of-the-shannon-midlands-midwest-athlone,2,0,2,0,0,0,2,2,2,2
+IE00018,ireland,"Atlantic Technological University - Sligo - [ATU-Sligo], Sligo, Sligo - Courses & Fees",https://collegedunia.com/ireland/university/3811-atlantic-technological-university---sligo-sligo,2,0,2,0,0,0,2,2,2,2
+IT00001,italy,"Accademia Costume E Moda, Rome",https://collegedunia.com/italy/college/3627-accademia-costume-e-moda-rome,14,2,11,0,1,0,14,0,14,0
+IT00002,italy,"Humanitas University - [Humanitas University], Pavia, Lombardy - Courses & Fees",https://collegedunia.com/italy/university/3628-humanitas-university-pavia,2,0,0,0,0,2,2,0,2,0
+IT00003,italy,"IULM University - [IULM], Milan, Apulia - Courses & Fees",https://collegedunia.com/italy/university/3629-iulm-university-milan,3,0,3,0,0,0,3,0,3,3
+IT00004,italy,"Milano Fashion Institute - [Milano Fashion Institute], Milan, Apulia - Courses & Fees",https://collegedunia.com/italy/university/3630-milano-fashion-institute-milan,6,0,6,0,0,0,6,0,6,0
+IT00005,italy,"Sant'Anna School Of Advanced Studies - [Sant Anna], Pisa, Tuscany - Courses & Fees",https://collegedunia.com/italy/university/3631-santanna-school-of-advanced-studies-pisa,8,1,6,1,0,0,6,0,8,0
+IT00006,italy,"ALMA, The International School Of Italian Cuisine - [ALMA, The International School Of Italian Cuisine], Parma, Abruzzo - Courses & Fees",https://collegedunia.com/italy/college/3632-alma-the-international-school-of-italian-cuisine-parma,4,0,0,0,4,0,4,0,2,0
+IT00007,italy,University of Bologna,https://collegedunia.com/italy/university/3633-university-of-bologna-carpi,13,3,10,0,0,0,11,0,13,11
+IT00008,italy,Sapienza University of Rome,https://collegedunia.com/italy/university/3634-sapienza-university-of-rome-san-severo,11,1,10,0,0,0,10,10,11,10
+IT00009,italy,Politecnico Di Milano (PoliMi),https://collegedunia.com/italy/university/3635-politecnico-di-milano-milan,15,6,9,0,0,0,15,4,15,15
+IT00010,italy,University of Milan,https://collegedunia.com/italy/university/3636-university-of-milan-milan,14,0,9,5,0,0,13,3,14,13
+IT00011,italy,"University Of Pisa - [UNIPI Italy], Pisa, Tuscany - Courses & Fees",https://collegedunia.com/italy/university/3637-university-of-pisa-pisa,24,0,20,1,0,3,24,0,24,23
+IT00012,italy,"SDA Bocconi School Of Management - [SDA Bocconi], Milan, Apulia - Courses & Fees",https://collegedunia.com/italy/university/3673-sda-bocconi-school-of-management-milan,13,1,8,0,4,0,13,0,9,13
+IT00013,italy,"LUISS Business School - [LUISS BS], Rome, Lazio - Courses & Fees",https://collegedunia.com/italy/university/3820-luiss-business-school-rome,5,0,5,0,0,0,5,0,5,5
+IT00014,italy,"POLIMI Graduate School Of Management - [POLIMI GSoM], Milan, Lombardy - Courses & Fees",https://collegedunia.com/italy/college/3822-polimi-graduate-school-of-management-milan,5,0,5,0,0,0,5,0,5,5
+MY00001,malaysia,Universiti Kebangsaan Malaysia,https://collegedunia.com/malaysia/university/733-universiti-kebangsaan-malaysia-bangi,6,2,3,0,0,1,3,0,6,2
+MY00002,malaysia,Universiti Utara Malaysia,https://collegedunia.com/malaysia/college/734-universiti-utara-changlun,16,6,10,0,0,0,14,1,16,1
+MY00002,malaysia,Universiti Utara Malaysia,https://collegedunia.com/malaysia/university/734-universiti-utara-malaysia-changlun,16,6,10,0,0,0,14,1,16,1
+MY00003,malaysia,Universiti Sains Malaysia (USM),https://collegedunia.com/malaysia/college/735-universiti-sains-george-town,33,11,21,0,0,1,33,0,33,33
+MY00003,malaysia,Universiti Sains Malaysia (USM),https://collegedunia.com/malaysia/university/735-universiti-sains-malaysia-george-town,33,11,21,0,0,1,33,0,33,33
+MY00004,malaysia,Universiti Teknologi Malaysia (UTM),https://collegedunia.com/malaysia/university/736-universiti-teknologi-malaysia-skudai,45,23,22,0,0,0,45,15,45,45
+MY00005,malaysia,International Islamic University Malaysia,https://collegedunia.com/malaysia/college/737-international-islamic-university-malaysia-iium-gombak,49,32,17,0,0,0,49,1,49,40
+MY00005,malaysia,International Islamic University Malaysia,https://collegedunia.com/malaysia/university/737-international-islamic-university-malaysia-gombak,49,32,17,0,0,0,49,1,49,40
+MY00006,malaysia,Universiti Tenaga Nasional (UNITEN),https://collegedunia.com/malaysia/college/738-universiti-tenaga-nasional-kajang,15,9,6,0,0,0,15,1,15,1
+MY00006,malaysia,Universiti Tenaga Nasional (UNITEN),https://collegedunia.com/malaysia/university/738-universiti-tenaga-nasional-uniten-kajang,15,9,6,0,0,0,15,1,15,1
+MY00007,malaysia,Universiti Tunku Abdul Rahman (UTAR),https://collegedunia.com/malaysia/university/739-universiti-tunku-abdul-rahman-utar-kampar,69,50,19,0,0,0,69,1,69,69
+MY00008,malaysia,University of Malaya Fees and Costs for international students in 2026,https://collegedunia.com/malaysia/college/741-university-of-malaya-kuala-lumpur,155,44,111,0,0,0,155,1,155,155
+MY00008,malaysia,University of Malaya Fees and Costs for international students in 2026,https://collegedunia.com/malaysia/university/741-university-of-malaya-kuala-lumpur,155,44,111,0,0,0,155,1,155,155
+MY00009,malaysia,Universiti Teknologi Petronas (UTP),https://collegedunia.com/malaysia/university/742-universiti-teknologi-petronas-seri-iskander,19,9,10,0,0,0,19,1,19,19
+MY00010,malaysia,Universiti Putra Malaysia (UPM),https://collegedunia.com/malaysia/college/743-universiti-putra-seri-kembangan,29,3,26,0,0,0,29,1,29,29
+MY00010,malaysia,Universiti Putra Malaysia (UPM),https://collegedunia.com/malaysia/university/743-universiti-putra-malaysia-seri-kembangan,29,3,26,0,0,0,29,1,29,29
+MY00011,malaysia,Universiti Teknologi MARA,https://collegedunia.com/malaysia/university/744-universiti-teknologi-mara-shah-alam,132,24,107,0,1,0,132,0,132,132
+MY00012,malaysia,University of Nottingham Malaysia,https://collegedunia.com/malaysia/college/2258-university-of-nottingham-malaysia-semenyih,30,12,18,0,0,0,30,30,30,30
+MY00013,malaysia,Multimedia University,https://collegedunia.com/malaysia/university/2262-multimedia-university-cyberjaya,20,13,7,0,0,0,20,0,20,20
+MY00014,malaysia,Taylor's University,https://collegedunia.com/malaysia/university/2263-taylors-university-subang-jaya,54,19,24,5,6,0,54,2,54,50
+MY00015,malaysia,UCSI University (UCSI),https://collegedunia.com/malaysia/university/2264-ucsi-university-kuala-lumpur,18,6,8,4,0,0,18,7,18,18
+MY00016,malaysia,Sunway University,https://collegedunia.com/malaysia/university/2938-sunway-university-petaling-jaya,10,4,4,2,0,0,10,1,10,10
+MY00017,malaysia,"Monash University Malaysia - [Monash Malaysia], Subang Jaya, Selangor - Courses & Fees",https://collegedunia.com/malaysia/college/3418-monash-university-malaysia-subang-jaya,9,7,1,1,0,0,9,0,9,9
+NL00001,netherlands,"Rotterdam School of Management, Erasmus University (RSM)",https://collegedunia.com/netherlands/college/660-rotterdam-school-of-management-erasmus-university-rsm-rotterdam,20,1,14,5,0,0,20,5,20,20
+NL00002,netherlands,University of Amsterdam (UvA),https://collegedunia.com/netherlands/university/745-university-of-amsterdam-amsterdam,75,10,65,0,0,0,75,7,75,75
+NL00003,netherlands,Vrije Universiteit Amsterdam (VU Amsterdam),https://collegedunia.com/netherlands/university/746-vrije-universiteit-amsterdam-amsterdam,71,12,59,0,0,0,71,5,71,71
+NL00004,netherlands,Delft University of Technology Fees and Costs for international students,https://collegedunia.com/netherlands/university/747-delft-university-of-technology-delft,39,3,36,0,0,0,39,39,39,39
+NL00005,netherlands,Eindhoven University of Technology,https://collegedunia.com/netherlands/university/748-eindhoven-university-of-technology-eindhoven,53,11,34,8,0,0,53,7,53,50
+NL00006,netherlands,University of Twente,https://collegedunia.com/netherlands/university/749-university-of-twente-enschede,45,13,32,0,0,0,45,3,45,45
+NL00007,netherlands,University of Groningen,https://collegedunia.com/netherlands/university/750-university-of-groningen-groningen,84,18,66,0,0,0,84,62,84,84
+NL00008,netherlands,Leiden University,https://collegedunia.com/netherlands/university/751-leiden-university-leiden,120,12,104,3,1,0,120,4,120,118
+NL00009,netherlands,Maastricht University,https://collegedunia.com/netherlands/university/752-maastricht-university-maastricht,41,11,30,0,0,0,41,1,41,41
+NL00010,netherlands,Radboud University,https://collegedunia.com/netherlands/college/753-radboud-university-nijmegen-nijmegen,73,11,62,0,0,0,73,1,73,73
+NL00010,netherlands,Radboud University,https://collegedunia.com/netherlands/university/753-radboud-university-nijmegen,73,11,62,0,0,0,73,1,73,73
+NL00011,netherlands,Erasmus University Rotterdam,https://collegedunia.com/netherlands/university/754-erasmus-university-rotterdam-rotterdam,51,7,39,5,0,0,51,7,51,44
+NL00012,netherlands,Tilburg University,https://collegedunia.com/netherlands/university/755-tilburg-university-tilburg,70,12,57,1,0,0,69,0,70,13
+NL00013,netherlands,Utrecht University,https://collegedunia.com/netherlands/university/756-utrecht-university-utrecht,64,7,57,0,0,0,64,5,64,64
+NL00014,netherlands,Wageningen University & Research,https://collegedunia.com/netherlands/university/757-wageningen-university--research-wageningen,38,5,31,2,0,0,38,5,37,36
+NL00015,netherlands,Maastricht School of Management,https://collegedunia.com/netherlands/college/2282-maastricht-school-of-management-maastricht,3,0,3,0,0,0,3,0,3,3
+NL00016,netherlands,Breda University of Applied Sciences,https://collegedunia.com/netherlands/university/2283-breda-university-of-applied-sciences-breda,18,6,12,0,0,0,18,0,18,8
+NL00017,netherlands,"Royal Academy of Fine Arts, The Hague",https://collegedunia.com/netherlands/college/2287-royal-academy-of-art-the-hague-the-hague,12,7,4,1,0,0,12,0,12,11
+NL00018,netherlands,The Hague University of Applied Sciences (THUAS),https://collegedunia.com/netherlands/university/2568-the-hague-university-of-applied-sciences-the-hague,3,2,1,0,0,0,3,2,3,3
+NZ00001,new-zealand,Auckland University of Technology (AUT),https://collegedunia.com/new-zealand/college/758-auckland-university-of-technology-auckland,70,19,44,0,7,0,70,1,70,70
+NZ00001,new-zealand,Auckland University of Technology (AUT),https://collegedunia.com/new-zealand/university/758-auckland-university-of-technology-auckland,70,19,44,0,7,0,70,1,70,70
+NZ00002,new-zealand,University of Auckland,https://collegedunia.com/new-zealand/college/759-university-of-auckland-auckland,57,18,31,6,1,1,57,12,57,56
+NZ00002,new-zealand,University of Auckland,https://collegedunia.com/new-zealand/university/759-university-of-auckland-auckland,57,18,31,6,1,1,57,12,57,56
+NZ00003,new-zealand,University of Canterbury,https://collegedunia.com/new-zealand/college/760-university-of-canterbury-christchurch,125,43,77,0,5,0,125,13,125,125
+NZ00003,new-zealand,University of Canterbury,https://collegedunia.com/new-zealand/university/760-university-of-canterbury-christchurch,125,43,77,0,5,0,125,13,125,125
+NZ00004,new-zealand,University of Otago,https://collegedunia.com/new-zealand/college/761-university-of-otago-dunedin,206,81,122,1,2,0,206,101,206,206
+NZ00004,new-zealand,University of Otago,https://collegedunia.com/new-zealand/university/761-university-of-otago-dunedin,206,81,122,1,2,0,206,101,206,206
+NZ00005,new-zealand,University of Waikato,https://collegedunia.com/new-zealand/university/762-university-of-waikato-hamilton,198,52,94,51,1,0,198,0,198,197
+NZ00006,new-zealand,Lincoln University,https://collegedunia.com/new-zealand/college/763-lincoln-university-lincoln,39,14,25,0,0,0,39,0,39,39
+NZ00006,new-zealand,Lincoln University,https://collegedunia.com/new-zealand/university/763-lincoln-university-lincoln,39,14,25,0,0,0,39,0,39,39
+NZ00007,new-zealand,Massey University (Massey),https://collegedunia.com/new-zealand/college/764-massey-university-palmerston-north,74,26,37,0,11,0,74,9,74,73
+NZ00007,new-zealand,Massey University (Massey),https://collegedunia.com/new-zealand/university/764-massey-university-palmerston-north,74,26,37,0,11,0,74,9,74,73
+NZ00008,new-zealand,Victoria University of Wellington (VUW),https://collegedunia.com/new-zealand/college/765-victoria-university-of-wellington-wellington,138,62,75,1,0,0,138,2,137,138
+NZ00008,new-zealand,Victoria University of Wellington (VUW),https://collegedunia.com/new-zealand/university/765-victoria-university-of-wellington-wellington,138,62,75,1,0,0,138,2,137,138
+NZ00009,new-zealand,Southern Institute of Technology,https://collegedunia.com/new-zealand/college/3465-southern-institute-of-technology-invercargill,2,0,2,0,0,0,2,2,2,2
+NZ00010,new-zealand,"Wellington Institute Of Technology - [Wellington Institute Of Technology], Petone, North Island - Courses & Fees",https://collegedunia.com/new-zealand/university/3650-wellington-institute-of-technology-petone,14,1,4,0,9,0,14,0,14,14
+NZ00011,new-zealand,Unitech Institute of Technology,https://collegedunia.com/new-zealand/college/3732-unitech-institute-of-technology-auckland,1,0,1,0,0,0,1,1,1,1
+NZ00012,new-zealand,Whitireia New Zealand,https://collegedunia.com/new-zealand/college/3741-whitireia-new-zealand-porirua,1,0,1,0,0,0,1,0,1,1
+NZ00013,new-zealand,Waikato Institute of Technology,https://collegedunia.com/new-zealand/university/3742-waikato-institute-of-technology-hamilton,1,1,0,0,0,0,1,0,1,1
+SE00001,sweden,Chalmers University of Technology,https://collegedunia.com/sweden/university/769-chalmers-university-of-technology-gothenburg,43,0,43,0,0,0,43,3,43,43
+SE00002,sweden,University of Gothenburg,https://collegedunia.com/sweden/university/770-university-of-gothenburg-gothenburg,34,2,32,0,0,0,34,0,34,34
+SE00003,sweden,Linkoping University,https://collegedunia.com/sweden/university/771-linkoping-university-linkoping,21,1,20,0,0,0,21,0,21,19
+SE00004,sweden,Lulea University of Technology,https://collegedunia.com/sweden/university/772-lulea-university-of-technology-lulea,6,0,6,0,0,0,6,3,6,6
+SE00005,sweden,Lund University,https://collegedunia.com/sweden/university/773-lund-university-lund,71,5,66,0,0,0,71,10,71,70
+SE00006,sweden,Orebro University,https://collegedunia.com/sweden/university/774-orebro-university-orebro,8,0,8,0,0,0,8,0,8,8
+SE00007,sweden,Karolinska Institute,https://collegedunia.com/sweden/university/775-karolinska-institute-stockholm,10,1,9,0,0,0,10,0,10,10
+SE00008,sweden,KTH Royal Institute of Technology,https://collegedunia.com/sweden/university/776-kth-royal-institute-of-technology-stockholm,56,0,56,0,0,0,56,5,56,56
+SE00009,sweden,Stockholm School of Economics,https://collegedunia.com/sweden/college/777-stockholm-school-of-economics-stockholm,11,1,7,3,0,0,8,0,11,11
+SE00010,sweden,Stockholm University,https://collegedunia.com/sweden/university/778-stockholm-university-stockholm,58,1,57,0,0,0,58,0,58,58
+SE00011,sweden,Umea University,https://collegedunia.com/sweden/university/779-umea-university-umea,37,3,34,0,0,0,36,1,37,37
+SE00012,sweden,Swedish University of Agricultural Sciences (SLU),https://collegedunia.com/sweden/university/780-swedish-university-of-agricultural-sciences-uppsala,15,0,15,0,0,0,15,0,15,15
+SE00013,sweden,Uppsala University,https://collegedunia.com/sweden/university/781-uppsala-university-uppsala,54,3,51,0,0,0,54,0,54,54
+SE00014,sweden,Linnaeus University,https://collegedunia.com/sweden/university/782-linnaeus-university-vaxjo,22,1,21,0,0,0,22,0,22,22
+SE00015,sweden,Malmo University,https://collegedunia.com/sweden/university/2267-malmo-university-malmo,18,4,14,0,0,0,18,0,18,18
+SE00016,sweden,Jonkoping University,https://collegedunia.com/sweden/university/2268-jonkoping-university-jonkoping,24,3,21,0,0,0,24,4,24,24
+SE00017,sweden,Karlstad University,https://collegedunia.com/sweden/university/2270-karlstad-university-karlstad,11,0,11,0,0,0,9,0,11,11
+SE00018,sweden,Malardalen University,https://collegedunia.com/sweden/university/2271-malardalen-university-vasteras,14,1,13,0,0,0,14,0,14,12
+SE00019,sweden,Mid Sweden University,https://collegedunia.com/sweden/university/2273-mid-sweden-university-sundsvall,16,1,15,0,0,0,16,0,16,16
+SE00020,sweden,University of Gavle,https://collegedunia.com/sweden/university/2274-university-of-gavle-gavle,10,0,8,0,2,0,10,0,10,8
+SE00021,sweden,University of Skovde,https://collegedunia.com/sweden/university/2275-university-of-skovde-skovde,10,2,8,0,0,0,10,0,10,9
+SG00001,singapore,Nanyang Technological University (NTU),https://collegedunia.com/singapore/university/766-nanyang-technological-university-singapore,67,26,41,0,0,0,67,9,67,67
+SG00002,singapore,National University of Singapore (NUS),https://collegedunia.com/singapore/university/767-national-university-of-singapore-singapore,136,45,72,17,1,1,136,4,136,134
+SG00003,singapore,Singapore Management University (SMU),https://collegedunia.com/singapore/university/768-singapore-management-university-singapore,28,5,21,1,0,1,28,4,28,28
+SG00005,singapore,Singapore Institute of Management (SIM),https://collegedunia.com/singapore/college/2706-singapore-institute-of-management-singapore,50,25,20,0,5,0,0,1,50,50
+SG00006,singapore,National University of Singapore Business School,https://collegedunia.com/singapore/college/2722-national-university-of-singapore-business-school-singapore,11,1,9,1,0,0,0,0,11,11
+SG00007,singapore,Amity Global Institute,https://collegedunia.com/singapore/university/3599-amity-global-institue-singapore,14,0,1,0,13,0,14,1,14,14
+UK00001,uk,Robert Gordon University,https://collegedunia.com/uk/university/783-robert-gordon-university-aberdeen,61,22,38,0,0,1,61,33,61,61
+UK00002,uk,University of Aberdeen,https://collegedunia.com/uk/university/784-university-of-aberdeen-aberdeen,163,41,122,0,0,0,163,162,163,163
+UK00003,uk,Aberystwyth University,https://collegedunia.com/uk/university/785-aberystwyth-university-aberystwyth,85,48,30,7,0,0,85,1,85,85
+UK00004,uk,University of Bath,https://collegedunia.com/uk/university/786-university-of-bath-bath,101,23,70,5,0,3,100,8,101,101
+UK00005,uk,Cranfield University,https://collegedunia.com/uk/university/787-cranfield-university-bedford,48,0,48,0,0,0,48,5,48,48
+UK00006,uk,Queen's University Belfast,https://collegedunia.com/uk/university/788-queens-university-belfast-belfast,84,33,50,1,0,0,84,55,84,84
+UK00007,uk,Ulster University,https://collegedunia.com/uk/university/789-ulster-university-belfast,77,47,29,0,1,0,77,5,77,76
+UK00008,uk,University of Reading (UoR),https://collegedunia.com/uk/university/791-university-of-reading-berkshire,63,37,26,0,0,0,63,1,63,63
+UK00009,uk,Aston University,https://collegedunia.com/uk/university/792-aston-university-birmingham,95,33,62,0,0,0,95,0,95,95
+UK00010,uk,University of Birmingham,https://collegedunia.com/uk/university/793-university-of-birmingham-birmingham,194,29,116,47,1,1,193,145,194,193
+UK00011,uk,University of Brighton,https://collegedunia.com/uk/university/795-university-of-brighton-brighton,167,68,95,0,4,0,167,0,167,167
+UK00012,uk,University of Sussex,https://collegedunia.com/uk/university/796-university-of-sussex-brighton,145,46,99,0,0,0,145,13,145,145
+UK00013,uk,University of Bristol Fees and Costs for international students in 2026,https://collegedunia.com/uk/university/797-university-of-bristol-bristol,200,65,84,49,2,0,200,192,200,200
+UK00014,uk,University of The West of England,https://collegedunia.com/uk/university/798-university-of-the-west-of-england-bristol,125,63,62,0,0,0,124,49,125,125
+UK00015,uk,University of Cambridge,https://collegedunia.com/uk/university/800-university-of-cambridge-cambridge,160,19,70,71,0,0,160,151,160,160
+UK00016,uk,Cardiff University,https://collegedunia.com/uk/university/802-cardiff-university-cardiff,297,65,120,110,1,1,296,17,297,297
+UK00017,uk,Coventry University Fees and Cost of international students 2026,https://collegedunia.com/uk/university/804-coventry-university-coventry,166,48,116,0,2,0,166,0,166,166
+UK00018,uk,University of Warwick,https://collegedunia.com/uk/university/805-university-of-warwick-coventry,151,52,95,4,0,0,151,39,151,151
+UK00019,uk,University of Derby,https://collegedunia.com/uk/university/806-university-of-derby-derby,27,13,13,0,1,0,27,1,27,27
+UK00020,uk,University of Dundee,https://collegedunia.com/uk/university/807-university-of-dundee-dundee,104,37,65,1,1,0,104,16,104,103
+UK00021,uk,Edinburgh Napier University (ENU),https://collegedunia.com/uk/university/808-edinburgh-napier-university,74,25,49,0,0,0,74,9,74,70
+UK00021,uk,Edinburgh Napier University (ENU),https://collegedunia.com/uk/university/808-edinburgh-napier-university-edinburgh,74,25,49,0,0,0,74,9,74,70
+UK00022,uk,Heriot-Watt University,https://collegedunia.com/uk/university/809-heriot-watt-university-edinburgh,68,26,41,0,1,0,68,1,68,68
+UK00023,uk,University of Edinburgh,https://collegedunia.com/uk/university/810-university-of-edinburgh-edinburgh,90,20,62,8,0,0,90,48,90,90
+UK00024,uk,University of Exeter,https://collegedunia.com/uk/university/812-university-of-exeter-exeter,126,46,80,0,0,0,126,126,126,125
+UK00025,uk,Glasgow Caledonian University,https://collegedunia.com/uk/university/813-glasgow-caledonian-university-glasgow,76,24,48,2,1,1,76,2,76,75
+UK00026,uk,University of Glasgow,https://collegedunia.com/uk/university/814-university-of-glasgow-glasgow,102,24,68,6,4,0,101,70,102,102
+UK00027,uk,University of Strathclyde,https://collegedunia.com/uk/university/815-university-of-strathclyde-glasgow,207,54,135,15,3,0,207,3,207,204
+UK00028,uk,University of Surrey,https://collegedunia.com/uk/university/816-university-of-surrey-guildford,92,33,56,3,0,0,92,90,92,92
+UK00029,uk,University of the West of Scotland,https://collegedunia.com/uk/university/818-university-of-the-west-of-scotland-glasgow,54,22,32,0,0,0,54,26,54,54
+UK00030,uk,University of Hertfordshire,https://collegedunia.com/uk/university/819-university-of-hertfordshire-hatfield,129,33,96,0,0,0,129,8,129,129
+UK00031,uk,Kingston University,https://collegedunia.com/uk/university/822-kingston-university-kingston-upon-thames,244,59,179,2,4,0,243,165,244,242
+UK00032,uk,Lancaster University,https://collegedunia.com/uk/university/823-lancaster-university-lancaster,88,19,67,1,1,0,88,1,88,88
+UK00033,uk,Leeds Beckett University,https://collegedunia.com/uk/university/824-leeds-beckett-university-leeds,146,65,80,0,1,0,145,1,146,146
+UK00034,uk,University of Leeds,https://collegedunia.com/uk/university/825-university-of-leeds-leeds,235,76,158,0,1,0,235,235,235,235
+UK00035,uk,University of Leicester Popular,https://collegedunia.com/uk/university/827-university-of-leicester-leicester,92,25,59,6,2,0,92,51,92,92
+UK00036,uk,University of Lincoln,https://collegedunia.com/uk/college/828-university-of-lincoln-lincoln,141,47,91,3,0,0,141,0,141,137
+UK00037,uk,University of Liverpool,https://collegedunia.com/uk/university/830-university-of-liverpool-liverpool,57,21,36,0,0,0,57,35,57,57
+UK00038,uk,"City, University of London",https://collegedunia.com/uk/university/832-city-university-of-london-london,102,26,72,4,0,0,101,1,102,102
+UK00039,uk,Durham University,https://collegedunia.com/uk/university/833-durham-university-durham,88,31,50,5,2,0,88,2,88,86
+UK00040,uk,Imperial College London,https://collegedunia.com/uk/university/835-imperial-college-london-london,99,12,86,1,0,0,98,69,99,99
+UK00041,uk,King's College London (KCL),https://collegedunia.com/uk/university/836-kings-college-london-london,135,31,68,32,4,0,135,70,134,135
+UK00042,uk,London School of Economics and Political Science (LSE),https://collegedunia.com/uk/college/839-london-school-of-economics-and-political-science-london,74,20,53,0,1,0,74,6,74,74
+UK00043,uk,London School of Hygiene & Tropical Medicine,https://collegedunia.com/uk/college/840-london-school-of-hygiene--tropical-medicine-london,13,0,13,0,0,0,13,1,13,13
+UK00044,uk,Middlesex University Fees and Costs for international students 2026,https://collegedunia.com/uk/university/842-middlesex-university-london,136,56,80,0,0,0,136,0,136,135
+UK00045,uk,Queen Mary University of London (QMUL),https://collegedunia.com/uk/university/843-queen-mary-university-of-london-london,218,60,139,13,6,0,207,116,218,218
+UK00046,uk,"School of Oriental and African Studies, University of London",https://collegedunia.com/uk/university/844-school-of-oriental-and-african-studies-university-of-london-london,60,18,41,1,0,0,59,0,60,59
+UK00047,uk,"St George's, University of London",https://collegedunia.com/uk/college/845-st-georges-university-of-london-london,14,5,9,0,0,0,14,0,14,14
+UK00048,uk,University College London (UCL),https://collegedunia.com/uk/university/846-university-college-london-london,224,43,169,11,1,0,224,196,223,218
+UK00049,uk,University of East London,https://collegedunia.com/uk/university/847-university-of-east-london-london,143,46,93,0,3,1,142,70,143,143
+UK00050,uk,University of Greenwich,https://collegedunia.com/uk/university/848-university-of-greenwich-london,151,59,91,1,0,0,150,85,151,151
+UK00051,uk,University of Westminster,https://collegedunia.com/uk/college/851-university-of-westminster-london,128,35,91,0,2,0,127,126,128,128
+UK00052,uk,Loughborough University,https://collegedunia.com/uk/university/852-loughborough-university-loughborough,92,32,45,15,0,0,92,34,92,92
+UK00053,uk,The University of Manchester,https://collegedunia.com/uk/college/855-university-of-manchester-manchester,188,65,117,6,0,0,187,108,188,187
+UK00053,uk,The University of Manchester,https://collegedunia.com/uk/university/855-the-university-of-manchester-manchester,188,65,117,6,0,0,187,108,188,187
+UK00054,uk,Newcastle University,https://collegedunia.com/uk/university/859-newcastle-university-newcastle-upon-tyne,254,38,146,69,0,1,254,16,254,248
+UK00055,uk,University of East Anglia (UEA),https://collegedunia.com/uk/university/861-university-of-east-anglia-norwich,126,46,74,0,6,0,126,63,126,126
+UK00056,uk,Nottingham Trent University (NTU),https://collegedunia.com/uk/university/862-nottingham-trent-university-nottingham,149,66,83,0,0,0,149,1,149,149
+UK00057,uk,University of Nottingham,https://collegedunia.com/uk/university/863-university-of-nottingham-nottingham,154,51,102,1,0,0,154,153,154,154
+UK00058,uk,Oxford Brookes University,https://collegedunia.com/uk/university/864-oxford-brookes-university-oxford,144,54,90,0,0,0,144,15,144,143
+UK00059,uk,University of Oxford,https://collegedunia.com/uk/university/865-university-of-oxford-oxford,77,15,42,17,2,1,77,37,77,77
+UK00060,uk,University of South Wales,https://collegedunia.com/uk/university/867-university-of-south-wales-pontypridd,95,39,54,0,2,0,95,0,95,93
+UK00061,uk,University of Central Lancashire,https://collegedunia.com/uk/university/870-university-of-central-lancashire-preston,159,89,70,0,0,0,159,0,159,158
+UK00062,uk,University of Salford,https://collegedunia.com/uk/university/871-university-of-salford-salford,101,41,60,0,0,0,101,0,101,101
+UK00063,uk,University of St Andrews,https://collegedunia.com/uk/university/872-university-of-st-andrews-st-andrews,100,31,69,0,0,0,100,1,100,100
+UK00064,uk,University of Sheffield,https://collegedunia.com/uk/university/874-university-of-sheffield-sheffield,90,33,57,0,0,0,90,51,90,90
+UK00065,uk,University of Southampton,https://collegedunia.com/uk/university/875-university-of-southampton-southampton,68,26,39,3,0,0,68,34,68,68
+UK00066,uk,Swansea University,https://collegedunia.com/uk/university/877-swansea-university-swansea,166,64,101,0,1,0,166,165,166,164
+UK00067,uk,University of York Fees and Costs for international students in 2026,https://collegedunia.com/uk/university/879-university-of-york-york,209,43,120,38,8,0,209,110,209,209
+UK00068,uk,Birmingham City University,https://collegedunia.com/uk/university/2288-birmingham-city-university-birmingham,190,96,81,12,1,0,190,0,190,189
+UK00069,uk,Glasgow School of Art,https://collegedunia.com/uk/college/2293-glasgow-school-of-art-glasgow,22,10,12,0,0,0,22,2,22,22
+UK00070,uk,Liverpool School of Tropical Medicine,https://collegedunia.com/uk/college/2296-liverpool-school-of-tropical-medicine-liverpool,3,0,3,0,0,0,3,0,3,3
+UK00071,uk,Glasgow School for Business and Society,https://collegedunia.com/uk/college/2342-glasgow-school-for-business-and-society-glasgow,10,5,5,0,0,0,10,1,10,10
+UK00072,uk,Lancaster University - Management School,https://collegedunia.com/uk/college/2358-lancaster-university---management-school-lancaster,67,5,42,20,0,0,67,0,67,67
+UK00073,uk,University of London,https://collegedunia.com/uk/university/2366-university-of-london-london,26,4,9,10,3,0,21,17,26,22
+UK00074,uk,Bath Spa University,https://collegedunia.com/uk/university/2588-bath-spa-university-bath,13,5,8,0,0,0,13,0,13,13
+UK00075,uk,Cranfield School of Management,https://collegedunia.com/uk/college/2611-cranfield-school-of-management-bedford,4,0,4,0,0,0,4,0,4,4
+UK00076,uk,Solent University,https://collegedunia.com/uk/university/2674-solent-university-southampton,16,7,9,0,0,0,16,7,16,16
+UK00077,uk,University College Birmingham (UCB),https://collegedunia.com/uk/university/2688-university-college-birmingham-birmingham,9,4,5,0,0,0,9,2,9,9
+UK00078,uk,"School of Management, University of Bath",https://collegedunia.com/uk/college/2776-school-of-management-university-of-bath-bath,4,0,4,0,0,0,4,3,4,4
+UK00079,uk,York St John University Fees and Costs for international students in 2026,https://collegedunia.com/uk/university/2897-york-st-john-university-york,33,11,22,0,0,0,33,20,33,33
