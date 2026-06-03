@@ -16,6 +16,10 @@ Quick impact:
 - Used Selenium and Playwright for scraping, Python for cleaning, OpenAI API for embeddings, and FAISS for vector retrieval
 - Designed the project so large generated vector files can be rebuilt locally instead of committed to GitHub
 
+Project context:
+
+This RAG project was built mainly during March-April 2026, when my harness workflow and multi-agent engineering concepts were still developing. I have been focused heavily on this project lately, but this repository should not be read as a complete representation of my latest AI knowledge or engineering approach as of summer 2026.
+
 Start here: [`RAG/README.md`](./RAG/README.md)
 
 ## Skills Demonstrated
