@@ -11,8 +11,6 @@ Best use cases:
 - consultant workflows
 - RAG systems that answer tuition, duration, requirement, and school-level admission questions
 
-Source website: `https://collegedunia.com/`
-
 ## Start Here
 
 - `data/clean/`: current source-of-truth outputs for downstream use
