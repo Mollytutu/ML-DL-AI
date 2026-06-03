@@ -1,4 +1,4 @@
-# ML / DL / AI Portfolio
+# Machine Learing / Deep Learning / AI Portfolio
 
 I build practical AI systems that connect data collection, data cleaning, retrieval, model APIs, and usable applications.
 
