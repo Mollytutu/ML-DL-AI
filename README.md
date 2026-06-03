@@ -1,29 +1,49 @@
 # ML / DL / AI Portfolio
 
-I am an AI engineer with practical experience in machine learning, deep learning, and large language model applications.
+I build practical AI systems that connect data collection, data cleaning, retrieval, model APIs, and usable applications.
 
-## Highlights
+## Featured AI Project: RAG Admissions Advisor
 
-- Completed an LLM course and multiple end-to-end machine learning and deep learning projects
-- Built data pipelines, model training workflows, and production-style prototypes
-- Currently developing an end-to-end Retrieval-Augmented Generation (RAG) project
-- Preparing an AI engineer interview preparation application, with a public update expected in early June
+[`RAG/`](./RAG/) is my strongest end-to-end AI project in this repository.
 
-## Current Work
+It is a retrieval-augmented generation system that turns web-scraped university admissions data into a searchable AI advisor. The project demonstrates the full workflow behind a real AI product: scraping, cleaning, structured data design, RAG document generation, OpenAI embeddings, FAISS vector search, and a Streamlit chatbot interface.
 
-This repository includes an active RAG project that demonstrates:
+Quick impact:
 
-- document ingestion and preprocessing
-- vector embeddings and semantic search
-- conversational retrieval workflows
-- real-world AI application design
+- Built a data pipeline covering 16 countries and 1,421 reviewed schools
+- Processed 82,111 program rows, 54,767 admission-page rows, and 48,335 school-page fact rows
+- Created a RAG workflow from structured CSV data to semantic search and chatbot answers
+- Used Selenium and Playwright for scraping, Python for cleaning, OpenAI API for embeddings, and FAISS for vector retrieval
+- Designed the project so large generated vector files can be rebuilt locally instead of committed to GitHub
 
-The goal is to make this a complete, playable project that anyone can explore and use as an interview-ready showcase.
+Start here: [`RAG/README.md`](./RAG/README.md)
+
+## Skills Demonstrated
+
+- Python data engineering
+- Web scraping and crawler orchestration
+- Data cleaning, deduplication, and validation
+- Retrieval-Augmented Generation
+- OpenAI API integration
+- Vector search with FAISS
+- Streamlit AI application development
+- Machine learning and time series modeling notebooks
+- FastAPI application structure and backend fundamentals
 
 ## Repository Structure
-- `ML_modeling/` — machine learning, deep learning, and time series notebooks with datasets
-- `RAG/` — ongoing end-to-end retrieval-augmented generation project and supporting pipelines
 
-## Next Update
+- [`RAG/`](./RAG/): end-to-end RAG admissions advisor and data pipeline
+- [`ML_modeling/`](./ML_modeling/): machine learning, deep learning, and time series notebooks with datasets
+- [`fastapi_project/`](./fastapi_project/): FastAPI backend project
 
-A full AI engineer interview preparation application will be added in early June, 
+## Why This Portfolio Matters
+
+The RAG project is more than a chatbot demo. It shows that I can work across the full AI application lifecycle:
+
+1. collect messy real-world data
+2. clean and structure it for downstream use
+3. build retrieval-ready knowledge documents
+4. connect model APIs and vector search
+5. deliver an interface that users can actually ask questions through
+
+That is the kind of practical engineering needed to move from notebooks to usable AI products.

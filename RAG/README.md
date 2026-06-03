@@ -1,52 +1,51 @@
 # RAG Admissions Advisor
 
-An end-to-end AI data project for building a retrieval-augmented admissions advisor from web-scraped education data.
+This is an end-to-end AI project that shows how I can build a practical retrieval-augmented generation system from raw web data to a working chatbot.
 
-The project collects school, admission, and program information from Collegedunia-style pages, cleans it into structured CSV datasets, converts the clean tables into RAG documents, embeds them with the OpenAI API, builds a local FAISS vector index, and serves answers through a Streamlit chatbot.
+The project scrapes university and admissions information, cleans it into structured datasets, transforms the clean data into RAG documents, embeds those documents with the OpenAI API, builds a FAISS vector index, and serves answers through a Streamlit admissions advisor.
 
-## What This Shows
+## Hiring Manager Summary
 
-- Web scraping with Selenium and Playwright
-- URL discovery, queue batching, retry flows, and scrape quality checks
-- Data cleaning, deduplication, normalization, and school/program joins
-- Structured education datasets for schools, admission pages, and program pages
-- RAG document generation from cleaned tabular data
-- OpenAI embedding API integration
-- FAISS vector search for local semantic retrieval
-- Chatbot answer generation using retrieved admissions context
-- Portfolio-ready pipeline design with reproducible scripts and clear run order
+This project demonstrates that I can:
 
-## Project Folder
+- scrape and organize real-world data from public web pages
+- clean messy HTML-derived records into structured CSV datasets
+- design repeatable data pipelines with queue batching, retries, and quality checks
+- create retrieval-ready documents from structured data
+- use the OpenAI API for embeddings and LLM answers
+- build and search a local FAISS vector index
+- ship a usable AI app interface with Streamlit
+- keep large generated artifacts out of Git while documenting how to rebuild them
 
-The main project is in [`admission_data/`](./admission_data/).
+## Project Scale
 
-Key files:
+- 16 countries
+- 1,421 reviewed schools
+- 82,111 program rows
+- 54,767 admission-page rows
+- 48,335 school-page fact rows
 
-- [`admission_data/app_streamlit.py`](./admission_data/app_streamlit.py): Streamlit admissions advisor chatbot
-- [`admission_data/pipeline/`](./admission_data/pipeline/): scraping, cleaning, RAG, embedding, and vector-index scripts
-- [`admission_data/pipeline/README.md`](./admission_data/pipeline/README.md): pipeline run guide and script inventory
-- [`admission_data/data/clean/README.md`](./admission_data/data/clean/README.md): clean data package notes
-- [`admission_data/data/clean/rag/README.md`](./admission_data/data/clean/rag/README.md): generated RAG artifact guide
+The full generated embeddings and FAISS files are multiple gigabytes, so this repository contains the source code, documentation, lightweight metadata, and smaller reference files. The large RAG artifacts can be rebuilt locally from the pipeline.
 
-## Architecture
+## AI System Architecture
 
 ```text
-School/program URLs
+Public school and program pages
         |
         v
-Selenium / Playwright crawlers
+Selenium / Playwright scraping
         |
         v
-Raw page and fact CSVs
+Raw page text and extracted facts
         |
         v
-Cleaning + aggregation scripts
+Cleaning, deduplication, normalization
         |
         v
-Clean school, admission, and program tables
+Structured school, admission, and program tables
         |
         v
-RAG document builder + deduper
+RAG document generation
         |
         v
 OpenAI embeddings
@@ -55,20 +54,25 @@ OpenAI embeddings
 FAISS vector index
         |
         v
-Streamlit admissions advisor
+Streamlit admissions advisor chatbot
 ```
 
-## Dataset Scope
+## What Is Inside
 
-Current local pipeline outputs were built around:
+- [`admission_data/app_streamlit.py`](./admission_data/app_streamlit.py): Streamlit chatbot interface
+- [`admission_data/pipeline/`](./admission_data/pipeline/): scraping, cleaning, embedding, retrieval, and RAG scripts
+- [`admission_data/pipeline/README.md`](./admission_data/pipeline/README.md): detailed pipeline guide
+- [`admission_data/data/clean/README.md`](./admission_data/data/clean/README.md): clean data package notes
+- [`admission_data/data/clean/rag/README.md`](./admission_data/data/clean/rag/README.md): RAG artifact and rebuild notes
 
-- 16 countries
-- 1,421 reviewed schools
-- 82,111 program rows
-- 54,767 admission-page rows
-- 48,335 school-page fact rows
+## Technical Highlights
 
-The full generated datasets and vector files are intentionally not all committed here because some artifacts are multiple gigabytes. The repository keeps the source code, run instructions, lightweight metadata, and smaller reference files so the pipeline can be rebuilt locally.
+- Web scraping: Selenium, Playwright
+- Data engineering: CSV normalization, school/program joins, deduplication, coverage reporting
+- RAG: document construction, supplemental documents, dedupe manifests
+- Embeddings: OpenAI embedding API
+- Retrieval: FAISS semantic search
+- App: Streamlit chatbot with admission-focused answer behavior
 
 ## Run Locally
 
@@ -104,5 +108,5 @@ python3 -m streamlit run app_streamlit.py --server.port 8501 --server.address 12
 ## Notes
 
 - `.env`, virtual environments, runtime logs, raw scrape runs, generated JSONL embeddings, and FAISS indexes are excluded from Git.
-- The OpenAI API is used for embeddings and answer generation.
-- FAISS is used for local vector retrieval; the same documents can also be moved into a hosted vector database such as pgvector or Supabase.
+- The same cleaned RAG documents could be served through a backend API or moved into a hosted vector database such as pgvector or Supabase.
+- The goal of this project is to show practical AI product engineering, not only prompt experimentation.
